@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mz="urn:gugik:specyfikacje:gmlas:mapaZasadnicza:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0" gml:id="GUGiK_OT_PTSO_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0 ../XSD/OT_BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_PTSO_A gml:id="OT_PTSO_A.1">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF8-0429-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>PTSO02</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>KR</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_430</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_430</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c239b50e-3314-4d46-b37a-bedff351e408-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>216519.76 618838.13 216595.26 618792.3 216593.43 618755.57 216567.54 618739.82 216501.31 618770.17 216499.47 618779.14 216490.57 618795.1 216504.99 618798.37 216500.07 618828.48 216510.68 618822.04 216519.76 618838.13</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:PRNG/>
+			<ot:rodzaj>Odp</ot:rodzaj>
+		</ot:OT_PTSO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_PTSO_A gml:id="OT_PTSO_A.3">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF8-042B-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>PTSO01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>KR</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Punkt zbiórki odpadów problemowych</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k>0010_430</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-649c391b-674e-472c-9b5a-28fc8b64aea8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>212551.89 623419.75 212555.23 623418.02 212558.22 623418.02 212561.99 623419.06 212549.15 623397.15 212546.59 623397.1 212546.93 623393.79 212548.18 623389.67 212550.56 623383.8 212550.61 623379.15 212552.51 623372.77 212546.28 623375.22 212545.34 623375.6 212536.89 623378.9 212522.47 623384.87 212516.6 623387.16 212544.1 623425.62 212548.72 623422.6 212551.89 623419.75</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:PRNG/>
+			<ot:rodzaj>Odk</ot:rodzaj>
+		</ot:OT_PTSO_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_PTSO_A gml:id="OT_PTSO_A.4">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF8-042C-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>PTSO02</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>KR</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>składowisko popiołów</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k>0010_430</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_430</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_430</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k>0100_430</ot:x_kodKarto100k>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4de6c14b-97c2-4568-a97c-eb5a1408e69e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203592.06 623500.64 203498.93 623343.21 203481.31 623313.39 203456.39 623271.27 203413.9 623206.81 203371.18 623122.86 203324.97 623049.15 203320.72 623043.91 203316.72 623040.91 203311.47 623038.66 203305.72 623038.16 203301.97 623039.66 203298.22 623041.16 203208.05 623093.63 203074.1 623170.08 203014.14 623209.81 203001.4 623231.8 202998.65 623240.04 202991.9 623285.26 202992.9 623302 203008.89 623332.49 203015.14 623338.04 203060.61 623378.46 203079.1 623428.93 203091.35 623443.67 203103.6 623452.66 203116.6 623456.41 203130.57 623455.66 203187.82 623431 203193.26 623442.98 203195.26 623447.34 203266.76 623604.57 203270.51 623611.07 203274.76 623615.57 203278.73 623617.82 203283.98 623619.32 203289.48 623618.82 203413.65 623576.59 203588.56 623517.63 203592.06 623514.88 203593.81 623510.38 203593.81 623505.38 203592.06 623500.64</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:PRNG/>
+			<ot:rodzaj>Odp</ot:rodzaj>
+		</ot:OT_PTSO_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

@@ -1,0 +1,27 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>OT_Lotnisko</Name>
+    <ElementPath>OT_Lotnisko</ElementPath>
+    <GeometryType>100</GeometryType>
+    <DatasetSpecificInfo>
+      <FeatureCount>1</FeatureCount>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>idIata</Name>
+      <ElementPath>idIata</ElementPath>
+      <Type>Integer</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>idIcao</Name>
+      <ElementPath>idIcao</ElementPath>
+      <Type>String</Type>
+      <Width>4</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>rodzaj</Name>
+      <ElementPath>rodzaj</ElementPath>
+      <Type>String</Type>
+      <Width>3</Width>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

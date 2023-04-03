@@ -1,0 +1,3833 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mz="urn:gugik:specyfikacje:gmlas:mapaZasadnicza:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0" gml:id="GUGiK_OT_BUSP_L" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0 ../XSD/OT_BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.c2436f4e-d182-470d-9f5a-34bc14186ada">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>e8990ef7-a3b8-44a5-b40d-de5513adf1da</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-fa3251da-a97b-492e-afd8-40b41063943a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>200694.95 626803.29 200693.97 626816.39 200690.53 626820.81 200685.62 626823.92 200680.06 626824.74 200673.51 626822.94 200669.42 626819.99 200667.9 626815.91 200667.9 626801.2 200667.9 626771.4 200668.27 626742.07 200669.74 626738.47 200674.33 626734.87 200679.73 626732.58 200685.29 626732.74 200690.7 626734.87 200694.13 626738.8 200695.94 626746.98 200694.95 626803.29</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.11e75260-a33d-4345-bab7-1bab84f5f546">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>e6ca61f2-e84d-4b69-978e-299b80378be8</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-61390057-ec48-4de6-9be2-40984c6e3084-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>202205.19 629325.59 202136.02 629336.71</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.807e91db-6c14-441a-9ed7-45ae52b4d5ef">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>33887fa2-9965-499d-bba1-0a6731e852a2</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-64a638fe-be87-4b6e-bc55-d29a15670570-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>207177.24 620049.86 207147.95 620057.44</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.0bb060b6-3071-46d7-b411-e38038e7ed5e">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>20140b44-2065-46fb-a32d-d84fe6c004c7</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0a5cd431-f6bd-4dc6-a49a-263f4477fab9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211642.45 620355.74 211642.35 620419.97 211642.19 620432.13</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.24841915-883c-4e41-8b92-5b848c023ce0">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>6346bbe4-886a-487f-81eb-35720fbca1a4</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-45f54ba2-4af6-4e1e-aaec-479348916b91-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>210969.93 621034.29 210981.14 621066.39</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.bd7db5d7-f6c0-4a2b-aec4-65f085465946">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>6f99260f-78cd-42af-bdab-ad44e849c908</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6a5e7bf8-1991-4cb4-8042-c3635169ad30-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211893.03 620983.84 211915.7 620980.36</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.eb5af313-b177-48fd-acd2-470b69fbfa24">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>1de2dc12-5085-4e7e-b218-306a76c7c6c1</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e9be9e6d-afd3-4e69-8096-d24e89d0bec6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211852.89 620897.08 211923.65 620881.24</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.cbf71207-77eb-4106-a931-89d925dd10b0">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>8ceb4c9b-2e55-49d9-bd16-008738125130</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f43aa3f0-51f1-48c9-bf35-001442854a10-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>201261.43 626572.51 201295.78 626567.62</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EC2-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ff84edbc-5fe0-437e-8dd8-d96e8ea21bc2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>210082.82 621889.99 210056.12 621936.05</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.1">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EBA-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-16974e5a-adb2-4c9e-8475-e0dff7e6c347-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>200341.43 626854.37 200413.11 626850.11</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.2">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EBB-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6d8d99bc-704e-4d14-aac4-5ab50b372750-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>200393.79 626857.61 200355.63 626859.83</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.3">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EBC-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-903170c7-c2c4-47ee-b430-5318ba06256a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>201073.36 630270.72 200989.67 630274.66</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.4">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EBD-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-31276c67-081d-44a9-84dd-cb8dd47ef19a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>201143.15 625737.33 201145.52 625738.69 201148.57 625740.24 201151.82 625741.19 201154.39 625741.53 201158.73 625741.6 201162.45 625741.33 201165.9 625740.58 201169.29 625739.36 201172.61 625737.81 201175.93 625735.64 201178.3 625733.54 201180.33 625731.3 201182.3 625728.93 201183.85 625726.43 201185.34 625723.45 201186.43 625720.19 201187.04 625717.49 201187.31 625714.78 201187.38 625711.8 201187.24 625708.95 201186.97 625706.72 201186.29 625704.07 201185.07 625701.43 201174.44 625679.69 201162.25 625655.24 201147.35 625624.15 201143.49 625616.49 201142.13 625614.6 201139.96 625612.3 201137.39 625610.06 201134.61 625608.23 201131.7 625606.74 201129.13 625605.66 201127.03 625605.18 201123.5 625604.84 201120.86 625604.71 201118.15 625604.84 201114.16 625605.32 201110.02 625606.33 201106.98 625607.42 201103.45 625609.45 201101.08 625611.48 201098.71 625613.92 201097.16 625616.09 201095.67 625618.73 201094.38 625621.57 201093.16 625624.89 201092.21 625628.35 201091.67 625631.26 201091.53 625634.58 201091.74 625638.1 201092.14 625640.74 201092.89 625643.79 201093.7 625645.89 201101.22 625660.39 201119.64 625697.17 201131.56 625722.63 201134.07 625727.58 201135.7 625730.63 201137.52 625733 201139.56 625734.82 201143.15 625737.33</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.6">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EBF-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ce33a074-7428-40f7-ac45-ab085b6c602a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>212469.37 623156.59 212463.11 623161.64 212458.17 623162.26 212454.25 623162.26 212449.3 623161.23 212445.8 623159.79 212442.5 623157.52 212439.41 623154.23 212437.15 623150.52 212435.7 623146.39 212434.67 623141.24 212435.08 623137.12 212436.32 623132.59 212438.59 623128.05 212473.21 623077.36 212476.71 623072.83 212479.8 623069.73 212483.1 623067.67 212488.46 623066.03 212493.4 623065.41 212497.94 623066.64 212503.09 623069.32 212506.18 623072 212509.07 623076.33 212510.71 623080.66 212511.54 623086.01 212511.13 623091.37 212510.3 623096.32 212508.94 623100.7 212469.37 623156.59</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.7">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EC0-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1269bb6c-4a07-4f84-a1d4-ccc2823e0f22-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211082.8 620975.33 211075.73 620976.84 210992.49 621009.38 210988.45 621012.16 210985.22 621015.92 210981.77 621021.59 210980.05 621026.02 210979.06 621030.45 210979.06 621034.63 210979.8 621039.81 210981.28 621044.48 210983.49 621048.42 210987.43 621052.61 210991.87 621055.81 210997.28 621058.27 211002.21 621059.01 211008.61 621058.27 211014.76 621056.55 211056.01 621040 211099.46 621022.57 211104.14 621019.86 211107.34 621016.91 211109.06 621013.46 211110.3 621009.52 211111.81 621002.83 211111.55 620995.76 211109.66 620989.2 211107.01 620984.92 211103.23 620981.38 211096.8 620977.98 211089.61 620976.09 211082.8 620975.33</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.8">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EC1-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c8d84329-9fad-4b63-97d0-8afdda43460b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>208547.99 621607.3 208617.47 621511.13</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.10">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EC3-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-fcf74490-36ce-43da-9738-684230c05864-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>212289.89 623449.25 212286.53 623461.95</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.11">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EC4-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-502d0138-434c-43de-96c4-665a9864e0f7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>212289.89 623449.25 212285.76 623454.15 212280.04 623458.5 212275.95 623460.14 212269.15 623461.23 212264.25 623461.23 212259.35 623460.41 212254.72 623458.5 212251.45 623456.05 212247.1 623451.97 212244.1 623447.89 212242.47 623442.44 212241.93 623437.27 212242.47 623432.64 212243.29 623426.38 212264.25 623355.33 212266.97 623349.07 212270.51 623345.26 212276.5 623341.17 212282.49 623339.27 212289.84 623338.72 212295.83 623340.08 212300.73 623341.99 212305.63 623345.8 212310.53 623351.52 212312.16 623356.96 212313.25 623361.59 212312.71 623367.03 212311.34 623373.84 212289.89 623449.25</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.37">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EDA-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5f443430-f744-4abb-b0a5-abe27659aa09-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>201777.39 630336.95 201755.55 630366.73 201748.78 630374.23 201739.37 630380.26 201728.79 630383.79 201716.58 630384.67 201705.55 630382.9 201695.99 630379.08 201686.29 630371.87 201680.11 630363.79 201675.55 630352.46 201673.93 630342.46 201665.61 630335.64 201669.59 630330.2 201685.18 630308.9 201737 630238.08 201744.58 630232.55 201752.75 630227.76 201765.77 630224.16 201776.8 630224.38 201787.53 630227.47 201795.99 630231.66 201804.15 630238.79 201810.4 630247.54 201814 630257.39 201815.77 630268.72 201814.44 630279.3 201810.18 630292.1 201777.39 630336.95</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.46">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EDB-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP00</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>tor kartingowy</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj nilReason="template" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Curve gml:id="id-cab1c76b-a1ff-4b7a-833f-7d68e11ebc36-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>201843.58 630681.25 201844.14 630680.59</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.52">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EDC-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP00</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>tor crossowy</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj nilReason="template" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5d136995-26d6-4724-9115-d552a7c957b7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>201844.14 630680.59 201859.63 630662.44 201899.26 630616.81 201909.7 630602.72 201919.35 630592.55 201923.78 630589.42 201932.38 630585.77 201942.82 630583.69 201952.99 630584.73 201964.2 630588.64 201986.89 630600.38 202011.58 630617.31 202016.09 630625.67 202015.83 630633.5 202009.31 630643.41 202000.71 630649.93 201990.75 630654.78 201978.8 630655.4 201964.46 630652.53 201949.07 630648.36 201941.77 630648.1 201938.64 630650.71 201937.86 630653.58 201941.77 630658.27 201946.47 630661.66 201951.16 630665.31 201955.85 630669.22 201958.2 630674.18 201957.42 630679.92 201953.77 630685.91 201945.42 630695.04 201937.86 630705.99 201927.95 630721.12 201912.56 630742.24 201896.4 630772.23 201891.18 630777.19 201885.7 630776.4 201880.75 630771.71 201877.1 630765.97 201875.79 630760.5 201878.14 630755.28 201912.3 630708.08 201937.34 630678.09 201939.16 630671.05 201936.56 630667.92 201931.08 630668.96 201922.47 630674.96 201860.67 630750.59 201852.06 630755.28 201848.93 630753.72 201848.15 630747.98 201850.5 630740.42 201869.01 630709.38 201896.4 630675.74 201930.04 630638.19 201936.56 630633.76 201942.82 630631.93 201949.86 630632.45 201971.76 630638.19 201977.24 630638.19 201979.59 630635.32 201979.32 630632.19 201976.94 630626.84 201953.25 630611.33 201945.68 630609.24 201933.95 630609.24 201925.86 630611.59 201919.61 630618.11 201887.79 630660.36 201832.77 630734.16 201823.9 630738.85 201819.99 630737.03 201819.73 630730.25 201823.12 630721.12 201843.58 630681.25</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.12">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EC5-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c7a4f3d0-2df8-4447-b64e-b1d0bc58182d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>207068.02 620072.61 207178.06 620044.37</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.15">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EC7-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-fa056329-c630-4206-bd6e-b4836e45878c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>202515.64 627041.71 202409.23 627039.79 202402.6 627038.57 202395.97 627035.95 202390.21 627030.37 202386.37 627023.39 202383.23 627015.54 202381.49 627006.99 202381.84 626997.92 202383.23 626989.72 202384.83 626984.7 202385.85 626981.52 202388.64 626974.89 202393.87 626969.31 202400.85 626964.25 202408.35 626961.81 202518.96 626963.38 202525.41 626966.52 202531.17 626972.97 202535.36 626981 202538.67 626990.42 202540.42 627000.19 202540.42 627008.04 202538.67 627017.63 202535.01 627026.88 202529.77 627033.86 202523.67 627038.74 202515.64 627041.71</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.16">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EC8-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-35516f1d-7822-47a5-997e-af9fbd48f0b8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>202506.57 627132.42 202503.61 627231.34 202502.21 627240.24 202499.24 627247.22 202493.84 627253.67 202487.21 627258.21 202478.83 627261.7 202470.11 627263.27 202458.42 627262.74 202448.65 627259.78 202439.06 627254.72 202432.08 627248.96 202429.11 627243.73 202426.67 627235.88 202426.32 627226.63 202429.46 627131.2 202431.38 627124.23 202433.48 627120.13 202434.87 627117.42 202440.1 627112.01 202446.91 627108.18 202454.06 627105.56 202462.26 627103.81 202472.2 627103.47 202481.45 627104.51 202488.43 627107.3 202497.33 627112.01 202502.38 627118.99 202505.35 627125.8 202506.57 627132.42</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.18">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ECA-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d636f540-f240-43d0-84ff-a8949fffb294-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>203848.54 626483.87 203846.19 626481.03 203831.12 626433.08 203828.38 626424.35 203828 626419.96 203828.74 626415.3 203830.78 626411.05 203833.57 626407.21 203836.01 626405.17 203839.33 626403.35 203842.45 626402.29 203846.33 626401.91 203850.61 626402.15 203854.59 626403.25 203858.09 626405.03 203861.31 626408 203863.85 626411.75 203867.21 626420.92 203882.24 626469.56 203882.09 626474.12 203881.11 626477.4 203879.79 626480.55 203878.02 626482.94 203875.7 626485.52 203873.53 626487.39 203870.43 626488.95 203867.45 626489.91 203864.57 626490.3 203861.17 626490.44 203858.09 626489.91 203854.88 626488.71 203851.61 626486.65 203848.54 626483.87</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.20">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ECC-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-f72eabf5-85ee-4ec3-8870-db7e5fdb89a7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>204035.19 630273.29 204004.32 630239.04 203963.14 630193.35 203959.46 630185.2 203958.41 630174.68 203959.99 630164.43 203963.67 630155.22 203969.72 630146.81 203979.44 630139.45 203989.7 630136.55 204002.06 630136.03 204013.1 630137.34 204019.94 630142.6 204090.93 630220.7 204094.61 630231.21 204095.4 630243.05 204093.04 630254.88 204087.78 630264.08 204078.84 630272.23 204070.95 630275.92 204060.56 630278.61 204050.83 630278.74 204042.35 630276.84 204035.19 630273.29</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.21">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ECD-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-773b96fd-e2b9-40ae-a237-95f242ffb56b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>203575.36 628360.92 203555.94 628394.32 203540.99 628419.37</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.23">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ECF-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-895cf544-46b9-4369-a44a-2c01fd12656e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>205854.34 630094.61 205834.3 630022.38</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.24">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ED0-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-cac808a2-7103-45a9-8a10-e37c2f8f0e8c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>205648.98 628626.97 205576.69 628633.06</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.25">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ED1-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a048ba53-75b3-495b-80c7-c650b3687e9e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>203819.4 630517.33 203882.5 630542.17</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.26">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ED2-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-af75b5d3-eb73-4155-a618-a39b4c48ae77-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>204132.32 631727.42 204148.05 631659</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.27">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ED3-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ac1c8ac6-77de-4057-a1b7-24e66785a4fd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>201607.39 627624.35 201613.39 627673.73</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.28">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ED4-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-cc1d9d26-13a7-47c7-b140-d355b149c9f9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>205470.87 627676.14 205492.7 627655.71</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.30">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ED6-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-71e00d89-5d5e-4a22-924f-cec3d3d70abb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>203632.79 627567.08 203624.48 627540.08 203620.4 627526.85 203615.12 627509.69</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.31">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ED7-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2a24d344-932b-4bd6-997c-cfeb33dd0a94-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>203627.74 627539.24 203634.33 627560.67</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.32">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ED8-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-e5a33a49-511f-4353-9f29-ec52d7e60e2b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>205252.23 629237.44 205278.34 629217.66</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.33">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ED9-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d69a8758-6594-4459-80ea-fec20a8a849e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>218349.92 621739.73 218411.24 621780.93</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.0a4aa28f-2e37-4458-951b-a65505a6431b">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>ba89ce8e-9a3c-4194-8749-2a1a480cc72f</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-869cb1d4-896c-4329-9f03-d4e5334b847d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>202493.71 624953.25 202529.18 625039.5 202529.84 625043.25 202529.4 625047 202528.52 625051.2 202526.31 625056.72 202523.88 625061.35 202520.35 625065.77 202517.48 625068.19 202512.85 625071.06 202507.99 625073.05 202503.14 625074.15 202497.18 625074.6 202491.66 625073.71 202488.13 625072.83 202484.81 625071.28 202481.28 625069.08 202478.85 625066.43 202476.21 625063.34 202474 625059.81 202471.35 625054.51 202440 624980.78 202438.68 624975.71 202438.24 624971.95 202438.24 624966.88 202438.9 624962.24 202440.45 624956.94 202442.87 624952.97 202446.41 624948.78 202450.6 624945.69 202455.24 624943.26 202460.75 624940.83 202465.17 624940.17 202470.47 624939.95 202476.21 624941.05 202482.17 624943.26 202486.14 624945.69 202489.67 624948.33 202493.71 624953.25</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.559eff43-9634-4c6c-a0d5-66e897ed0611">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2ec05d2a-5858-4736-9467-e5c4005cd9d8</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-26af3554-1709-4388-8d61-5e61144232fa-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>202485.7 624933.77 202493.71 624953.25</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.afb0c1aa-6a55-4ebc-91a4-1a197454031b">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>d7ff7cb5-b3fe-4778-a301-e0b15cb88596</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-92a8eda7-c30f-446f-b234-08b5206e3403-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>202400.71 632619.54 202445.36 632616.77 202451.37 632617.63 202456.32 632620.01 202460.62 632624.1 202463.46 632629.12 202464.38 632633.94 202464.25 632639.03 202462.4 632642.86 202459.89 632646.76 202456.79 632649.53 202452.1 632652.24 202447.14 632653.5 202399.91 632656.14 202394.17 632655.15 202389.28 632652.57 202385.98 632649.66 202383.07 632645.31 202382.01 632640.88 202382.01 632635.73 202383.73 632629.58 202387.1 632624.37 202391.19 632621.46 202400.71 632619.54</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.a084e300-5b4f-4000-ac65-11ce5d677fd4">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>de7f95ef-31de-424c-b8df-9b6f0e93e0b2</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Trn</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-19def66d-437a-4b45-af2a-0bf4bc5b36de-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>204951.97 629951.63 205072.84 629920.38</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.5241939e-c6a3-4292-8e3c-67c24f41f7f2">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>fdaf79e5-2905-48f0-af10-7ee3d7527c82</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3767ba3d-c203-4030-ba2f-cd50597e32a9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>205067.9 629176.19 205100.78 629230.93</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.e81e8241-9313-4545-abd8-74275e426d46">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>d073d008-ae8e-4f3b-ba71-73cc775d80dc</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-fea37c07-8011-47e3-b443-9cf478fb8cc8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>205262.73 628631.86 205266.91 628627.8 205270.87 628626.05 205276.45 628625.59 205282.49 628626.4 205287.72 628628.96 205291.67 628632.91 205294.46 628638.26 205299.69 628678.48 205301.55 628696.5 205300.16 628701.96 205297.25 628707.19 205293.88 628710.33 205288.42 628712.65 205281.91 628713 205275.52 628711.61 205270.75 628708.7 205267.15 628704.4 205265.29 628699.4 205262.26 628678.71 205258.43 628647.09 205258.54 628642.09 205260.17 628636.86 205262.73 628631.86</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.cc31d5c0-3159-46d9-8bee-bca8afe41ead">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>54fec41a-0c19-419a-afe7-6870f7869212</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1c02d460-41b3-4e9e-8666-7d8cb71a299a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>203633.56 627826.68 203690.56 627807.89</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.0271320c-5ef4-47a4-8024-10047053fd94">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>43373504-b012-424a-9784-40de3d0f3078</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-03648d33-8443-4fd3-afac-e92b66d967eb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>203814.05 627414.34 203827.95 627456.97</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.cbfe33d3-7bf3-4379-b3bf-b3a05372a9fb">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>ae226653-d712-49b8-bd9b-4766c20e26ea</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6a3c7eab-2848-4f32-a5a6-4f1f55fd6e5f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>204982.64 628689.06 204933.84 628734.04</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.aa723339-9b6c-4ea6-88d5-068f258f99fd">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>826794ab-79d0-4c0c-9ba4-ba4ee0115512</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-facd0b24-a781-4693-84e0-f617f6dfb2ba-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>204296.81 626633.14 204309.78 626670.89</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e45b476-604d-11ed-9b75-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e45b477-604d-11ed-ab38-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ba15e39e-d61d-42c4-8bc2-28a54cca6699-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211126.84 620959.7 211127.83 620969.22 211127.7 620976.1 211127.84 620982.27</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e45b470-604d-11ed-9ec9-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e45b471-604d-11ed-8cb9-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-539a9719-77ac-4c17-9195-33781e00c5db-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211136.7 621008.84 211139.27 621026.23</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e4650b4-604d-11ed-a5e3-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e4650b5-604d-11ed-9e85-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-3ef37a03-4276-4ce5-8fe0-9909fc253bb3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211139.27 621026.23 211140.86 621037.02 211140.14 621038.94 211139.28 621040.2 211139.12 621040.31</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e45b478-604d-11ed-8e48-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e45b479-604d-11ed-9b25-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5980bec1-72a5-46a0-ac64-4f62895743bf-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211129.15 620995.43 211127.63 620994.69 211125.98 620991.98 211124.53 620986.82 211122.41 620980.93 211121.68 620975.51 211122.08 620969.88 211122.14 620968.63 211121.95 620966.91 211121.09 620965.58 211117.71 620962.54 211116.39 620958.84 211115.33 620953.55 211115.46 620949.91 211118.24 620948.39 211122.54 620947.86 211123.72 620951.05</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e46ecf4-604d-11ed-9268-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e46ecf5-604d-11ed-8e6f-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-65bb9c56-9c41-4364-ba95-e76e491f5aa2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211129.15 620995.43 211129.88 620992.77 211131.14 620988.07 211130.88 620986.29 211127.84 620982.27</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e478930-604d-11ed-be7d-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e478931-604d-11ed-bd7f-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ddde2509-955d-4ef0-b930-2c1ec6998bce-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211263 621272.9 211292.37 621267.81</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e43dfb0-604d-11ed-a5c5-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e43dfb1-604d-11ed-af3f-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ccc572a6-bb5b-401d-99af-25202414a612-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>205018.66 627063.1 205074.7 627044.52</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.29">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ED5-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a28deaec-fe8c-4433-b824-bf18b5aeef2d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>205016.56 628305.42 204953.89 628297.87</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.17">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EC9-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7c2b1c00-d682-4321-b46f-d464ae7b6340-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>205024.16 628281.05 205020.31 628280.86 205017.22 628281.61 205015.15 628282.68 205012.65 628284.63 205010.18 628287.56 205009.12 628291.26 205009 628295.22 205010.11 628299.03 205012.1 628302.13 205015.24 628304.69 205017.29 628305.82 205019.45 628306.63 205035.51 628308.58 205040.04 628308.64 205043.86 628307.76 205048.14 628305.07 205050.87 628301.1 205051.78 628297.4 205051.58 628292.52 205049.8 628288.55 205046.7 628285.46 205043.29 628283.55 205038.57 628282.88 205028.33 628281.61 205024.16 628281.05</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.53">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EDD-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP00</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>tor crossowy</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj nilReason="template" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Curve gml:id="id-ea75e857-61e0-4fe0-98d8-8f32f0cb456b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>201804.73 630726.1 201809.07 630719.22 201809.92 630716.89 201810.13 630714.78 201810.03 630712.76 201809.28 630710.54 201807.7 630708.64 201793.41 630697.42 201791.5 630697.21 201790.45 630697.84 201789.81 630698.9 201789.71 630700.59 201790.45 630704.72 201790.98 630705.78 201792.46 630707.16 201794.57 630707.79 201798.28 630708.53 201801.24 630710.12 201803.25 630712.13 201804.2 630714.67 201804.63 630716.79 201803.99 630719.01 201801.98 630723.03 201795.31 630730.86 201794.47 630731.5 201793.2 630731.6 201791.93 630731.6 201791.19 630731.29 201771.93 630714.78 201771.71 630714.35 201771.4 630713.19 201772.24 630711.81 201773.41 630711.6 201775.31 630711.81 201776.69 630712.24 201777.43 630712.34 201777.85 630712.02 201778.17 630711.39 201778.28 630710.33 201777.75 630709.59 201777.43 630708.95 201777.01 630707.9 201776.9 630706.2 201777.01 630705.46 201777.85 630704.83 201778.91 630704.62 201779.86 630704.93 201781.03 630705.99 201782.72 630708.85 201783.04 630710.65 201782.61 630712.24 201782.19 630713.72 201781.87 630714.67 201781.66 630715.94 201781.77 630717.1 201782.4 630718.27 201783.25 630719.01 201784.94 630719.75 201786.21 630719.86 201787.38 630718.9 201787.91 630717.63 201788.33 630716.79 201789.81 630716.26 201790.66 630716.26 201791.4 630716.26 201791.93 630716.47 201792.56 630717 201792.88 630718.16 201792.88 630718.8 201792.56 630720.07 201791.19 630722.71 201790.87 630724.19 201790.87 630725.36 201791.29 630725.89 201792.46 630725.99 201794.15 630725.46 201798.28 630719.96 201799.12 630717.84 201799.44 630715.83 201799.02 630714.46 201798.07 630713.4 201796.37 630712.66 201791.4 630711.6 201788.96 630710.86 201787.48 630709.8 201786.53 630708.21 201783.46 630702.6 201783.14 630701.33 201783.04 630699.43 201783.57 630698.48 201789.49 630692.02 201791.08 630691.28 201792.46 630691.49 201794.57 630692.02 201815.95 630709.91 201816.9 630711.39 201817.43 630712.55 201817.43 630713.72 201816.27 630716.05 201800.29 630737.21 201799.23 630737.53 201798.07 630737.42 201797.01 630736.68 201796.9 630735.31 201799.97 630731.71 201804.73 630726.1</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.14">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EC6-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-efe0837d-f3ed-46d0-8d99-a4b716d8369a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>201621.66 630251.13 201639.17 630222.81 201662.57 630189.68 201668.19 630186.11 201673.02 630184.92 201677.92 630184.45 201682.42 630185.51 201685.99 630187.1 201689.16 630189.88 201693.13 630195.37 201694.92 630200.26 201694.98 630205.95 201693.29 630212.81 201690.99 630217.55 201669.73 630248.23 201668.07 630250.74 201658.84 630264.64 201652.58 630272.29 201647.27 630276.74 201640.51 630278.43 201634.23 630278.43 201628.43 630276.49 201624.32 630273.35 201621.18 630269.01 201619.25 630264.66 201619.49 630258.62 201621.66 630251.13</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.22">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4ECE-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-94ab9324-58df-4425-90fe-abbf8bda9159-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>201585.22 627658.91 201619.27 627711.41</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.77">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4EDF-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP00</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uwagi>tor kartingowy</ot:x_uwagi>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>tor kartingowy</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj nilReason="template" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Curve gml:id="id-81b2141a-de35-4557-a2c5-952d0bb53705-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>201779.19 630885.76 201756.32 630863.77 201754.72 630860.68 201754.61 630856.33 201756.21 630851.87 201758.73 630849.24 201763.53 630847.76 201767.88 630848.56 201770.28 630850.61 201799.1 630877.38 201803.44 630878.52 201806.65 630877.83 201810.54 630875.09 201811.79 630872.23 201812.14 630868.11 201812.02 630865.48 201810.65 630862.74 201805.85 630857.82 201788 630842.04 201768.9 630826.48 201764.22 630825.57 201760.78 630826.6 201757.81 630829.34 201730.13 630857.25 201726.13 630858.51 201722.24 630856.22 201719.27 630852.67 201718.58 630849.93 201719.04 630846.61 201720.53 630843.75 201745.12 630817.1 201746.49 630812.53 201745.92 630808.41 201743.63 630805.21 201741.34 630803.95 201738.14 630803.61 201734.94 630804.64 201730.59 630807.38 201703.37 630837.81 201697.08 630840.32 201693.65 630840.44 201691.13 630839.29 201688.62 630835.86 201688.27 630831.86 201689.53 630828.2 201692.62 630824.54 201728.42 630785.19 201739.79 630773.72 201743.5 630772.4 201748.26 630772.93 201753.82 630778.75 201754.35 630782.98 201754.61 630786.95 201756.73 630793.03 201761.49 630799.65 201764.54 630802.04 201810.97 630843.83 201813.08 630844.63 201816.26 630844.89 201818.64 630844.36 201823.14 630844.1 201826.05 630844.63 201827.9 630845.69 201829.75 630847.8 201831.07 630850.71 201832.4 630854.68 201832.4 630858.92 201831.87 630863.15 201830.21 630867.08 201828.83 630869.37 201820.07 630883.19 201799.67 630911.92 201795.41 630916.61 201790.86 630919.11 201785.72 630920.43 201778.39 630919.84 201771.64 630919.4 201763.12 630921.16 201749.48 630925.42 201725.85 630931.73 201722.47 630931.29 201719.1 630929.23 201717.04 630924.83 201717.34 630920.87 201719.1 630915.88 201726.88 630906.19 201740.5 630888.18 201744.6 630885.04 201747.17 630883.9 201749.8 630884.01 201752.26 630885.04 201754.56 630887.31 201767.38 630900.18 201772.22 630902.38 201775.31 630902.67 201778.97 630900.76 201781.91 630898.71 201783.08 630896.95 201783.23 630893.28 201782.2 630890.05 201779.19 630885.76</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e43dfae-604d-11ed-a5eb-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e43dfaf-604d-11ed-9e23-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-57fb8d00-b09c-4784-b303-737168480b39-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>204220.64 629664.77 204225.31 629700.45</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e478932-604d-11ed-a887-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e478933-604d-11ed-969a-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-55b9868d-4e41-4d2a-8f3a-33e2f02ffec1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>203825.01 628347.41 203890 628381.86</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e4650ae-604d-11ed-b4a5-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e4650af-604d-11ed-a940-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-2bf72852-dad6-492e-b1b6-37c6cb564bcd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211120.46 621011.74 211136.7 621008.84</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e451838-604d-11ed-aa6a-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e451839-604d-11ed-9cea-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7828207c-cacb-4cba-9f25-dbfbd3d729da-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>203981.55 630102.32 203989.8 630112.96 203990.27 630114.95 203990.27 630116.93 203989.88 630118.36 203956.62 630147.97 203953.2 630143.13 203953.2 630140.35 203954.63 630137.81 203976.78 630117.93 203978.29 630116.93 203980.59 630117.01 203982.53 630117.17 203984.32 630117.01 203986.11 630116.18 203986.62 630114.87 203986.38 630113.6 203985.35 630112.29 203983.92 630112.05 203982.57 630112.29 203981.38 630113.28 203981.14 630115.15 203981.34 630117.09 203981.42 630118.72 203981.26 630120.15 203980.15 630121.22 203978.92 630121.58 203977.65 630121.3 203976.86 630120.19 203976.66 630119 203976.83 630117.89</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e43dfb2-604d-11ed-95b6-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e43dfb3-604d-11ed-8113-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9fa9b9e6-0ba2-491c-9faa-b81664f51cdd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>202246.82 626872.4 202249.21 626943.83 202249.52 626948.2</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e45b472-604d-11ed-8d7f-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e45b473-604d-11ed-87ec-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5b02de46-10d2-4206-a0c7-b829eda537c6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211127.84 620982.27 211126.18 620980.07 211125.19 620976.5 211125.19 620971.14 211124.33 620960.29</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e451834-604d-11ed-b6ee-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e451835-604d-11ed-95a0-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-af3c9aa6-a6f1-46cf-9ee4-eadd83e53f5c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>208747.3 634211.02 208798.49 634196.53</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e4650b2-604d-11ed-b355-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e4650b3-604d-11ed-99e3-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-7378bd6c-1c06-4fc6-b7aa-b6ae56ba18e3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211131.7 621035.48 211139.27 621026.23</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e45b474-604d-11ed-a8ea-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e45b475-604d-11ed-bb27-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-9bf3d1b5-d83c-40f4-8a7b-694eb6f3bb18-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211124.33 620960.29 211121.75 620959.3 211120.29 620957.45 211119.76 620955.13 211120.42 620953.08 211122.08 620951.36 211124.86 620950.83 211127.63 620952.35 211129.02 620954.47 211129.02 620957.05 211126.84 620959.7</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e46ecf8-604d-11ed-8f4a-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e46ecf9-604d-11ed-a0fd-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6f3bc099-be8f-4431-8ae8-d8c1c245a9c0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>204046.09 631526.8 204053.16 631521.31 204054.95 631521.37 204057.46 631522.23 204059.65 631524.15 204064.28 631528.78 204084.72 631552.66 204101.52 631572.24</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e43dfb4-604d-11ed-ad4f-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e43dfb5-604d-11ed-9f80-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6a2a0189-233f-45a7-923d-7395296abd1a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>218357.75 621729.54 218362.04 621691.12</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e46ecf0-604d-11ed-8bcb-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e46ecf1-604d-11ed-aee4-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6a95280e-b7d7-46e9-b95e-a897b317290e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211136.7 621008.84 211135.37 621000.11 211134.51 620998.59 211133.45 620997.53 211129.15 620995.43</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e46ecf6-604d-11ed-bd83-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e46ecf7-604d-11ed-bf41-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-77eb5054-9560-443c-b16c-631d498650bc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211126.84 620959.7 211124.33 620960.29</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e451830-604d-11ed-99f1-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e451831-604d-11ed-ab9c-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c6efce2b-e574-4f97-90e3-5388a1dc5470-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>206620.09 630908.02 206649.13 630927</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e478938-604d-11ed-abd5-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e478939-604d-11ed-851e-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-cccafd1e-fb42-49ce-8f2b-2b52c12116d0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>205742.75 629515.21 205766.73 629533.89</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e4650b6-604d-11ed-aa4f-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e4650b7-604d-11ed-b75d-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-318fe7e0-c01f-4a32-8288-460399a4e472-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211139.12 621040.31 211129.49 621034.04 211128.03 621032.52 211127.3 621030.01 211126.51 621021.48 211127.5 621017.91 211128.23 621013.8 211128.58 621010.29</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e447bf0-604d-11ed-8fd3-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e447bf1-604d-11ed-99e5-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-1d777b3c-a49d-4dc8-8cc3-beb312a580cd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>200399.25 633478.56 200327.29 633547.14</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e451832-604d-11ed-8a01-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e451833-604d-11ed-b456-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-6e2eb0df-c898-4685-9128-c7dc43064141-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211763.34 620266.49 211759.69 620253.47 211754.29 620224.73 211751.11 620207.75 211751.91 620199.65 211754.92 620195.84 211760.96 620193.14 211768.42 620191.56 211777.47 620190.76 211782.86 620193.14 211784.61 620196.64 211786.52 620201.56 211796.68 620259.34 211795.88 620264.1 211794.77 620267.12 211792.23 620269.18 211788.74 620270.61 211781.12 620272.36 211776.04 620272.68 211772.55 620272.68 211768.58 620271.72 211763.34 620266.49</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e43dfb6-604d-11ed-82f5-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e43dfb7-604d-11ed-920d-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-5f370a38-2da9-4ce1-ae57-d56f40f05aaf-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>202917.73 627978.13 202917.49 627980.19 202918.6 627985.35 202919.31 627988.05 202920.98 627990.43 202923.84 627993.6 202925.74 627995.91 202928.36 627996.62 202930.82 627996.46 202933.2 627994.95 202969.95 627976.94 202972.49 627973.92 202973.69 627969.24 202973.61 627965.58 202973.21 627962.73 202972.1 627960.5 202969.95 627958.2 202967.57 627956.54 202963.84 627954.63 202960.83 627954.47 202957.71 627955.11 202924.19 627969.99 202919.27 627973.78 202917.73 627978.13</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e451836-604d-11ed-8a34-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e451837-604d-11ed-89c6-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-4fb0ae2c-0026-44ca-a6c6-c9ed2390c805-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>216741.18 617834.45 216794.46 617787.19</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e434370-604d-11ed-82e7-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e434371-604d-11ed-86d7-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>EGiB</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-d421b52f-97d8-4fbc-88cd-df2172559fe7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>203067.02 629975.42 203068.33 629974.25 203064.2 629970.25 203061.71 629972.81 203063.72 629974.8 203065.71 629976.76 203067.02 629975.42</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e46ecf2-604d-11ed-8782-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e46ecf3-604d-11ed-8f72-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-0c21c2c9-c0f4-42eb-91c4-7d0cd0685fb0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211128.58 621010.29 211128.63 621009.84 211128.1 621005.01 211127.9 621002.49 211128.63 620997.33 211129.15 620995.43</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e478936-604d-11ed-a473-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e478937-604d-11ed-9f95-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-c598d495-7099-4a1d-9d89-220358251bd5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>205247.31 629854.77 205275.82 629846.78</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e4650b0-604d-11ed-86f7-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e4650b1-604d-11ed-b98f-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP11</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Tsm</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-a17b6f65-6172-4685-bd47-a77bef53e260-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>211139.12 621040.31 211135.97 621042.51 211133.85 621043.57 211132.73 621043.57 211130.74 621043.11 211130.08 621041.78 211130.02 621039.6 211130.54 621036.89 211131.7 621035.48</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUSP_L gml:id="OT_BUSP_L.9e478934-604d-11ed-a2de-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>9e478935-604d-11ed-9cfb-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUSP03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>OG</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_339</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_339</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_339</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Bzn</ot:rodzaj>
+			<ot:geometria>
+				<gml:Curve gml:id="id-10baf6ce-2702-44e1-a19a-e69aa13b97e5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:segments>
+						<gml:LineStringSegment>
+							<gml:posList>203843.16 628351.72 203888.34 628376</gml:posList>
+						</gml:LineStringSegment>
+					</gml:segments>
+				</gml:Curve>
+			</ot:geometria>
+		</ot:OT_BUSP_L>
+	</gml:featureMember>
+</gml:FeatureCollection>

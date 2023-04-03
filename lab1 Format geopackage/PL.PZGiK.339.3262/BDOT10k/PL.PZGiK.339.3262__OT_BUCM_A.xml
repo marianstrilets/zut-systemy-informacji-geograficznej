@@ -1,0 +1,817 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mz="urn:gugik:specyfikacje:gmlas:mapaZasadnicza:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0" gml:id="GUGiK_OT_BUCM_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0 ../XSD/OT_BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.5">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35D4-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Bud</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_345_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_345_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_345_1</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k>0100_345_1</ot:x_kodKarto100k>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-20fa6bd3-3801-44c8-a8b8-99a0a4f13d6e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>199581.44 624555.09 199595.24 624592.37 199615.28 624646.49 199634.28 624696.7 199649.09 624735.86 199694.37 624724.36 199731.35 624714.97 199771.88 624704.67 199801.27 624697.21 199825.91 624691.14 199830.08 624690.11 199845.58 624689.22 199857.36 624692.96 199866.21 624698.7 199871.32 624685.59 199897.12 624638.21 199903.98 624627.68 199925.72 624597.68 199949.77 624564.49 199989.76 624508.59 200064.97 624407.01 200070.38 624399.74 200061.06 624391.77 200059.47 624390.4 200041.77 624368.78 200032.01 624351.35 200037.73 624347.63 200040.26 624340.68 200039.9 624334.54 200036.64 624329.31 200030.99 624326.29 200024.15 624326.59 200019.36 624322.16 200014.51 624317.81 200009.64 624316.27 200005.8 624316.4 199980.02 624322.56 199968.3 624325.36 199936.56 624333.16 199907.88 624340.21 199891.98 624344.05 199841.6 624356.23 199792.01 624368.21 199748.05 624378.84 199727.26 624383.86 199703.43 624389.72 199653.78 624401.93 199600.81 624414.96 199595.68 624416.11 199592.74 624416.7 199587.36 624417.78 199516.59 624427.51 199519.14 624444.15 199516.26 624450.8 199514.6 624456.63 199513.96 624465.14 199515.36 624473.27 199519.14 624480.82 199524.26 624487.09 199530.92 624491.19 199538.4 624494.13 199544.86 624494.96 199551.21 624494.64 199557.72 624492.98 199581.44 624555.09</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Kom</ot:rodzaj>
+			<ot:wyznanie>0</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.16">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35CE-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>cmentarz ewangelicki</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k>0010_345_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_345_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_345_1</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k>0100_345_1</ot:x_kodKarto100k>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-dc6f890f-0206-4537-be4d-8e9cce3894f0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>213400.24 623605.24 213404.5 623596.6 213404.6 623596.4 213417.75 623569.73 213417.8 623569.62 213421.28 623562.57 213421.8 623561.52 213426.32 623553 213437.65 623531.7 213435.55 623471.86 213420.69 623460.04 213415.42 623455.84 213404.6 623450.16 213404.5 623450.11 213314.92 623403.13 213212.27 623408.93 213175.81 623414.15 213160.64 623429.58 213159.3 623430.95 213153.84 623436.5 213132.92 623484.46 213110.58 623529.64 213125.39 623537.05 213143.63 623546.17 213127.51 623576.2 213130.53 623580.18 213182.67 623606.63 213223.1 623627.14 213355.59 623695.78 213380.16 623645.94 213385.04 623636.05 213400.24 623605.24</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Kom</ot:rodzaj>
+			<ot:wyznanie>0</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.1">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35D0-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_345_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_345_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_345_1</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-846b4cb1-a3ec-4647-9e2b-fdc66cb37c1e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>218605.76 623145.87 218651.21 623106.29 218670 623085.94 218689.86 623064.42 218660.54 623034.16 218655.38 623028.83 218649.32 623023.3 218625.2 623001.14 218619.54 622995.94 218615.85 622992.55 218613.2 622990.12 218537.43 623088.8 218545.31 623095.4 218579.99 623124.42 218605.76 623145.87</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Kom</ot:rodzaj>
+			<ot:wyznanie>0</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.11">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35DA-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_344_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_344_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_344_2</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d5498717-0330-4628-a590-b57e67cd6293-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>205153.78 618708.01 205180.72 618700.51 205186.29 618703.78 205198.46 618700.37 205255.15 618684.5 205255.06 618684.27 205248.06 618661.03 205242.61 618642.98 205252.81 618639.67 205253.66 618639.39 205250.26 618636.82 205144.46 618669.44 205153.78 618708.01</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Wzn</ot:rodzaj>
+			<ot:wyznanie>0</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.12">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35DB-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_344_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_344_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_344_2</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c0f5916f-1895-4792-9c4c-78400cf331ea-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>204894.52 617832.65 204883.69 617826.14 204840.49 617833.52 204853.82 617906.19 204877.7 617900.46 204912.61 617892.09 204920.55 617890.19 204911.53 617859.86 204903.59 617840.91 204894.52 617832.65</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Wzn</ot:rodzaj>
+			<ot:wyznanie>0</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.48bad9dc-8af8-4503-8e5f-368ebfb1cb68">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>23e3d587-469b-424b-afa8-c12973b43683</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_343_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_343_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_343_1</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-00325246-eefe-451c-9662-5a73cd79ae49-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>204147.03 632179.91 204152.93 632182.56 204228.88 632214.98 204280.46 632123.28 204282.64 632119.19 204281.89 632113.3 204281.26 632106.26 204282.1 632098.92 204283.78 632089.06 204283.31 632073.96 204282.31 632058.48 204278.49 632023.33 204275.35 631994.35 204272.64 631964.89 204271.59 631953.64 204251.71 631954.73 204225.76 632001.73 204218.06 632013.9 204207.22 632041.27 204196.85 632068.19 204192.56 632079.3 204182.26 632101.46 204177.28 632112.18 204172.43 632122.63 204166.98 632134.33 204161.92 632145.31 204157.07 632156.06 204147.03 632179.91</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Wzn</ot:rodzaj>
+			<ot:wyznanie>1</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.a76924c2-b1c6-4430-a33e-8c2a35fb9f36">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>087e6652-e0e7-4fa3-b3e9-e8665f38d8f5</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytkowy cmentarz jeńców francuskich ze starodrzewem, nr rej. A-1731 z 2018-06-13</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k>0010_346_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_346_2</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_346_2</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-31063453-d39b-4ac3-b3a9-9d78384d2d58-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>201318.56 630696.92 201330.43 630706.63 201341.7 630693.29 201330.55 630686.01 201318.56 630696.92</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Wjn</ot:rodzaj>
+			<ot:wyznanie>1</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.3">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35D2-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_343_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_343_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_343_2</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e757c17c-1710-46a7-8720-f5d2a18ca1d1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>219413.16 617273.1 219458.38 617281 219447.03 617247.14 219427.03 617206.75 219409.46 617173.38 219404.66 617184.44 219392.37 617202.87 219372.58 617221.22 219413.16 617273.1</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Wzn</ot:rodzaj>
+			<ot:wyznanie>1</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.4">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35D3-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytkowy przykościelny cmentarz rzymskokatolicki, nr rej. A-1243 z 2014-07-04, A-1243 z 2014-08-04</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k>0010_343_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_343_2</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_343_2</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-f09f26b0-e5ac-4946-9f62-ba2266a75e39-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>200375.81 629982.04 200374.78 629965.68 200374.41 629960.76 200365.65 629960.78 200348.26 629960.8 200342.76 629961.84 200337.27 629962.88 200332.12 629968.56 200330.44 629970.41 200329.29 629980.48 200329.12 629980.47 200327.21 629980.28 200325.23 629980.09 200306.23 629977.72 200303.63 629979.4 200302.26 629980.28 200298.09 629980.35 200300.09 629990.06 200310.13 629991.82 200335.62 629993.21 200338.09 629993.34 200340.63 629993.17 200376.01 629990.85 200375.81 629982.04</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Wzn</ot:rodzaj>
+			<ot:wyznanie>1</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.8">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35D7-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Ncn</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>cmentarz ewangelicki</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k>0010_343_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_343_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_343_1</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k>0100_343_1</ot:x_kodKarto100k>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-44c79671-d06e-46b6-ac9d-fb5ecd113c07-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>208155.88 633870.35 208131.56 633805.36 208118.73 633808.39 208094.61 633821.35 208074.83 633836.33 208044.55 633856.67 208043.96 633857.06 208022.72 633872.51 208035.77 633885.93 208050.14 633900.69 208065.26 633942.38 208065.39 633942.75 208067.56 633945.79 208091.48 633979.28 208125.37 634028.5 208129.18 634036.35 208134.26 634050.72 208144.26 634082.23 208149.39 634098.29 208165.54 634086.99 208194.91 634065.96 208171.11 633946.69 208155.88 633870.35</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Wzn</ot:rodzaj>
+			<ot:wyznanie>1</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.13">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35CC-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>cmentarz ewangelicki</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k>0010_345_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_345_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_345_1</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k>0100_345_1</ot:x_kodKarto100k>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ff8c4396-b749-4e6d-a233-e774e1196e37-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>209985.6 621265.47 210000.66 621191.13 210013.91 621194.74 210018.14 621195.76 210029.32 621166.65 210036.27 621141.85 210031.22 621138.43 210010.41 621123.87 209989.54 621110.03 209983.15 621106.51 209972.89 621098.47 209966.48 621093.33 209964.98 621091.31 209946.43 621079.89 209935.65 621075.66 209916.16 621068.89 209914.79 621070.88 209897.52 621097.73 209874.3 621132.77 209847.08 621176.63 209836.16 621195.48 209829.97 621207.98 209829.42 621211.71 209829.18 621214.13 209829.97 621215.96 209838.86 621225.92 209853.94 621243.02 209862.2 621254.06 209868.44 621264.76 209872.57 621275.3 209874.26 621287.54 209873.73 621319.51 209873.99 621321.25 209890.97 621325.61 209905.93 621329.22 209921.65 621334.03 209924.15 621336.65 209946.14 621358.64 209951.5 621364.82 209958.32 621368.67 209962.75 621357.41 209975.41 621313.04 209985.6 621265.47</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Kom</ot:rodzaj>
+			<ot:wyznanie>0</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.14">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35CD-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Zns</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_345_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_345_2</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_345_2</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8d4a75d1-7749-42cd-9461-591535eedf57-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203603.19 630417.79 203574.54 630399.98 203553.91 630433.23 203588.05 630451.32 203592.61 630440.19 203603.19 630417.79</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Kom</ot:rodzaj>
+			<ot:wyznanie>0</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.44ce5901-b675-4103-8fbe-4d87734cd923">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>beb51efc-80ad-4a5e-bbb6-f7d9a4f76f3e</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Tęczowa Kraina</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k>0010_347_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_347_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_347_2</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d4489263-0343-413c-8d8d-16e0af23ce21-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>205399.36 617057.86 205408.34 617028.02 205380.52 617018.47 205371.68 617046.9 205364.83 617044.83 205361.35 617043.78 205358.15 617042.81 205354.87 617041.82 205351.8 617040.89 205348.51 617039.89 205342.01 617037.92 205338.67 617036.91 205336.26 617036.18 205331.27 617054.43 205327.86 617066.94 205336.02 617087.21 205355.22 617124.5 205356.23 617126.47 205362.93 617139.49 205370.92 617140.49 205373.76 617131.82 205380.8 617114.62 205383.92 617103.1 205388.66 617082.11 205397.53 617069.39 205399.36 617057.86</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Zwr</ot:rodzaj>
+			<ot:wyznanie>0</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.21">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35CF-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytkowy Cmentarz Centralny, nr rej. 1066 z 1985-06-15, A-905 z 2011-08-04</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k>0010_345_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_345_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_345_1</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k>0100_345_1</ot:x_kodKarto100k>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b468dd4a-cb69-493e-b4e8-70f7ac052e46-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>201741.89 626641.36 201767.39 626637.2 201773.97 626663.9 201779.95 626691.67 201780 626691.88 201795.59 626689 201852.1 626678.57 201953.21 626658.97 202027.64 626642.94 202060.46 626637.53 202064.73 626636.83 202064.56 626585.05 202080.72 626584.68 202113.49 626584.63 202115.35 626611.62 202142.31 626612.26 202142.57 626630.66 202157.1 626631.05 202190.39 626631.94 202422.47 626633.83 202578.92 626639.18 202582.19 626639.29 202584.1 626590.36 202615.01 626591.4 202616.79 626588.69 202624.05 626577.64 202628.76 626570.45 202638.72 626555.3 202646.31 626550.07 202656.4 626543.09 202676.48 626529.26 202691.35 626528.8 202717.68 626531.6 202738.16 626565.97 202745.47 626578.25 202749.26 626584.63 202761.65 626643.6 202904.46 626649.1 202906.65 626581.32 202907.46 626568.43 202909.67 626537.67 202909.04 626507.03 202907.45 626475.36 202903.48 626419.72 202900.3 626357.8 202899.19 626303.51 202897.76 626216.36 202897.28 626176.39 202880.06 626177.47 202851.35 626179.26 202831.18 626180.52 202811.41 626176.42 202813.46 626172.63 202815.02 626169.74 202835.46 626131.86 202839 626121.96 202839.53 626119.13 202839.97 626116.66 202864.46 626119.13 202866.23 626102.51 202868.35 626091.55 202873.3 626068.56 202878.61 626036.02 202881.08 626023.47 202851.2 626022.94 202851.73 626014.8 202852.42 625992.84 202836.17 625963.52 202841.9 625952.19 202853.48 625929.29 202828.48 625913.92 202737.72 625857.22 202727.02 625878.72 202723 625877.59 202712.57 625875.11 202702.13 625872.63 202682.68 625915.6 202666.41 625906.05 202642.72 625894.91 202634.59 625918.96 202630.18 625935.25 202592.29 625826.67 202599.22 625829.49 202631.23 625846.82 202655.05 625805.45 202586.48 625762.45 202470.75 625689.88 202411.88 625653.12 202402.38 625647.19 202379.8 625633.09 202370.94 625699.17 202343.55 625695.62 202339.04 625695.03 202329.94 625693.85 202310.85 625690.89 202312.07 625694.96 202310.38 625697.19 202307.1 625704.81 202291.67 625746.26 202282.28 625771.48 202281.9 625772.63 202271.96 625802.57 202272 625803.03 202272.23 625805.61 202273.43 625807.33 202276.22 625809.19 202278.6 625810.19 202307.1 625817.74 202300.64 625839.25 202295.78 625855.31 202289.42 625853.89 202281.64 625853.18 202280.28 625853.41 202275.27 625854.24 202266.35 625857.71 202255.47 625863.09 202249.76 625864.75 202246.98 625865.56 202236.31 625867.1 202225.4 625867 202217.71 625866.36 202213.76 625859.48 202209.42 625853.45 202203.38 625848.48 202187.54 625839.53 202186.24 625830.99 202187.36 625765.3 202187.74 625743.04 202189.9 625691.93 202188.94 625680.8 202171.85 625674.08 202184.73 625634.41 202185.07 625630.24 202158.93 625615.1 201980.25 625566.89 201955.47 625657.13 201942.13 625652.98 201940.68 625658.47 201934.76 625680.64 201897.68 625661.26 201860.05 625641.1 201857.36 625641.87 201844.69 625666.64 201806.09 625646.09 201803.21 625646.86 201790.16 625672.21 201766.93 625719.87 201794.38 625729.85 201802.51 625732.32 201795.47 625746.11 201783.32 625754.76 201756.99 625841.72 201754.69 625849.29 201771.67 625854.24 201741.85 625955.5 201754.78 625962.2 201771.75 625973.87 201784.84 625984.48 201796.16 625998.27 201805.35 626011 201774.23 626020.2 201750.89 626023.03 201723.3 626022.32 201706.62 626020.85 201694.18 626065.63 201705.64 626075.2 201707.1 626091.47 201705.18 626116.36 201699.9 626146.51 201687.93 626171.39 201673.6 626192.45 201655.47 626234.78 201652.27 626242.18 201650.81 626245.6 201647.02 626254.44 201643.28 626263.19 201642.11 626265.92 201619.89 626317.8 201618.43 626327.42 201605.22 626413.13 201591.68 626416.52 201575.89 626507.34 201560.18 626504.94 201533.01 626584.63 201514.93 626568.35 201520.35 626549.67 201530.82 626504.06 201529.27 626493.46 201528.98 626485.88 201530.73 626475.1 201535.76 626467.68 201537.1 626463.71 201537.35 626458.68 201539.22 626451.01 201546.35 626430.64 201548.73 626425.08 201551.9 626420.32 201556.68 626415.82 201562.51 626411.06 201567.26 626404.97 201569.64 626400.47 201572.01 626390.95 201578.36 626372.43 201586.85 626349.14 201590.01 626342.26 201591.9 626341.69 201597.36 626323.84 201598.6 626319.93 201580.64 626313.08 201587.24 626293.05 201588.75 626277.28 201587.06 626261.13 201587.52 626258.15 201588.85 626249.49 201589.89 626242.73 201594.48 626224.34 201596.2 626220.16 201604.03 626201 201617.47 626176.25 201624.55 626162.81 201627.37 626155.03 201629.5 626138.05 201634.45 626113.65 201640.11 626084.65 201641.01 626081.4 201646.12 626063.08 201652.16 626042.36 201658.5 626020.64 201663.32 626006.28 201650.45 625998.98 201630.65 625985.54 201618.98 625972.1 201608.81 625955.86 201635.45 625872.35 201650.45 625825.33 201656.46 625806.24 201657.02 625801.67 201703.41 625817.11 201707.8 625802.83 201717.2 625772.2 201668.8 625753.81 201670.26 625751.07 201677.68 625733.38 201682.99 625717.82 201686.17 625705.44 201687.58 625696.6 201688.29 625685.29 201687.84 625679.12 201685.81 625651.38 201704.09 625661.02 201693.44 625572.49 201708.05 625531.36 201721.34 625493.96 201722.65 625490.23 201709.98 625491.29 201686.16 625491.63 201677.1 625489.28 201668.38 625482.9 201666.36 625475.52 201670.97 625472.16 201680.45 625472.83 201686.83 625467.13 201682.8 625456.73 201670.5 625452.21 201643.12 625451.77 201637.5 625445.99 201637.17 625437.6 201627.27 625411.62 201624.2 625402.41 201619.38 625398.01 201611.33 625398.34 201599.25 625406.73 201592.94 625407.15 201591.72 625407.23 201587.33 625405.48 201513 625455.08 201480.92 625467.32 201490.03 625471.83 201491.5 625473.11 201499.14 625479.73 201503.47 625490.62 201503.06 625501.85 201501.73 625507.47 201488.48 625532.86 201487.16 625536.6 201483.88 625545.95 201482.72 625551.16 201453.02 625546.92 201444.53 625547.63 201440.29 625550.45 201436.05 625555.05 201431.98 625566.45 201429.22 625578.41 201431.31 625592.29 201428.97 625607.73 201423.26 625631.14 201408.15 625693.29 201404.39 625705.37 201399.85 625719.45 201388.11 625755.76 201380.22 625780.2 201380.32 625783.49 201319.34 625936.29 201298.48 625925.68 201275.13 625975.19 201285.04 625980.5 201291.76 625988.28 201294.94 625996.41 201297.41 626010.56 201297.41 626021.52 201296.71 626030.72 201294.01 626042.66 201287.16 626054.41 201279.02 626065.02 201269.83 626073.16 201262.4 626078.11 201253.56 626081.29 201246.13 626082.71 201210.1 626085.43 201215.97 626066.93 201215.14 626060.05 201212.26 626055.38 201202.06 626050.28 201196.01 626049.99 201190.93 626053.46 201095.68 626164.85 201090.51 626169.46 201078.51 626180.2 201064.03 626190.54 201093.51 626216.81 201101.94 626224.33 201116.22 626235.07 201107.67 626239.04 201095.25 626244.39 201093.35 626245.21 201064.35 626258.23 201068.09 626270.13 201076.05 626290.76 201083.21 626308.83 201084.98 626312.96 201090.64 626327.11 201094.17 626335.9 201097.78 626344.77 201100.85 626351.84 201102.24 626355.05 201106.21 626364.21 201109.82 626372.53 201113.88 626382.62 201121.34 626401.13 201128.68 626419.35 201136.15 626437.89 201143.6 626456.4 201145.43 626461.01 201147.74 626466.79 201151.13 626474.79 201152.32 626477.5 201153.9 626481.45 201158.59 626493.46 201165.8 626511.95 201173.43 626531.5 201181.1 626551.17 201190.81 626543.9 201228.02 626532.73 201256.71 626529.04 201300.09 626538.78 201319.32 626553.64 201343.05 626578.59 201352.67 626595.95 201386.38 626594.64 201393.15 626594.47 201396.34 626619.51 201400.93 626655.73 201401.64 626661.34 201416.6 626755.27 201533.51 626739.22 201580.72 626729.83 201605.54 626685.14 201607.09 626682.35 201612.85 626667 201630.01 626659.23 201643.85 626657.03 201725.81 626643.99 201741.89 626641.36</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>201384.14 626330.92 201386.77 626330.44 201389.43 626332.84 201389.65 626336.69 201388.69 626342.21 201385.81 626353.5 201377.4 626373.92 201361.31 626415.95 201355.56 626430.37 201352.43 626432.77 201347.64 626433.01 201345.72 626431.57 201345.72 626428.92 201346.43 626424.6 201349.06 626419.8 201354.82 626404.18 201355.06 626398.42 201356.27 626394.58 201360.85 626391.93 201370.93 626367.67 201380.06 626339.09 201384.14 626330.92</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>201445.6 626092.79 201461.13 626044.98 201474.27 626004.56 201490.42 625954.84 201500.62 625923.46 201510.64 625887.68 201519.51 625856.01 201523.75 625832.32 201524.46 625821.35 201523.75 625812.16 201521.99 625802.96 201517.03 625787.4 201515.62 625775.73 201516.14 625766.88 201489.1 625755.22 201483.43 625770.48 201480.85 625766.79 201458.76 625744.71 201463.36 625739.01 201466.2 625735.5 201474.33 625726.66 201487.77 625718.18 201499.09 625710.75 201515.71 625705.8 201522.96 625704.03 201530.21 625702.26 201538.54 625701.2 201545.87 625701.2 201560.18 625825.24 201559.47 625845.76 201536.79 625933.81 201527.68 625974.07 201514.39 626032.87 201510.89 626048.41 201509.97 626059.9 201507.51 626071.04 201496.01 626104.26 201472.72 626171.56 201462.76 626200.36 201459.77 626209 201455.43 626216.25 201448.31 626228.11 201430.44 626250.16 201413.1 626242.75 201398.62 626237.28 201404.48 626202.32 201408.47 626184.79 201419.47 626165.65 201434.99 626126.74 201444.14 626097.45 201445.6 626092.79</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>202516.83 626223.31 202426.48 626196.92 202395.6 626187.9 202392.01 626199.08 202390.22 626204.67 202387.72 626212.5 202377.51 626208.96 202370.68 626205.16 202372.01 626200.34 202375.15 626189.09 202332.31 626177.49 202329.14 626176.65 202316.26 626173.2 202259.47 626157.98 202239.22 626150.81 202118.08 626118.11 202120.11 626102.25 202126.85 626085.15 202222.07 626115.6 202249.27 626123.54 202268.89 626127.36 202337.22 626148.21 202339.06 626148.77 202383.48 626161.99 202388.32 626154.59 202404.81 626158.65 202406.98 626159.21 202401.88 626176.07 202458.04 626191.66 202467.68 626194.33 202479.31 626197.56 202522.48 626208.72 202529.01 626190.48 202529.1 626190.3 202529.65 626190.44 202540.76 626193.27 202541.74 626189.69 202554.13 626144.95 202535.56 626142.3 202519.29 626138.05 202509.75 626133.46 202527.26 626101.35 202547.59 626065.02 202534.85 626055.83 202547.76 626034.43 202558.2 626042.04 202564.56 626045.57 202571.99 626049.11 202578.46 626051.27 202580.48 626051.94 202619.32 626059.75 202617.96 626028.07 202617.26 626007.55 202617.96 625991.99 202619.45 625983.34 202633.17 625984.74 202666.77 625991.82 202676.22 626014.08 202635.29 626025.41 202638.48 626040.62 202642.01 626056.89 202646.26 626069.97 202652.98 626091.9 202702.68 626076.41 202709.56 626092.61 202697.18 626103.22 202686.93 626113.83 202680.91 626121.61 202675.61 626130.8 202668.89 626146.01 202663.44 626160.93 202669.6 626168.11 202681.6 626180.91 202690.82 626190.75 202646.23 626192.07 202643.18 626191.37 202651.47 626203.23 202661.26 626213.56 202679.89 626226.51 202684.86 626229.96 202698.61 626237.45 202708.99 626243.53 202717.68 626247.17 202716.53 626251.61 202763.6 626265.56 202774.64 626268.42 202774.19 626269.97 202779.23 626271.16 202768.32 626308.1 202763.68 626306.8 202763.23 626308.36 202752.06 626304.97 202723.89 626298.98 202705.56 626293.87 202702.02 626307.51 202691.76 626305.11 202665.22 626291.85 202621.22 626308.2 202617.64 626308.65 202592.86 626311.77 202564.68 626302.31 202540.22 626287.58 202524.84 626249.69 202510.11 626245.7 202516.83 626223.31</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>202481.81 625962.99 202519.29 626014.8 202493.18 625997.39 202481.1 626016.57 202454.22 625998.71 202398.34 625961.76 202415.62 625935.86 202432.67 625908.3 202436.18 625912.6 202441.84 625921.79 202448.21 625932.4 202452.45 625939.48 202481.81 625962.99</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>202312.02 626014.03 202306.75 626018.87 202298.99 626020.87 202290.48 626018.69 202286.23 626015.51 202282.17 626008.77 202282.34 626001.72 202283.76 625996.77 202287.65 625992.88 202292.6 625990.76 202299.67 625989.69 202306.59 625991.15 202310.71 625995.56 202311.73 625998.82 202312.76 626002.07 202313.14 626007.51 202312.02 626014.03</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Kom</ot:rodzaj>
+			<ot:wyznanie>0</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.2">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35D1-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_345_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_345_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_345_1</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k>0100_345_1</ot:x_kodKarto100k>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4fe2380a-b8dd-4921-9781-a599dec42c0e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>216447.39 618224.47 216389.61 618211.6 216382.5 618219.67 216380.89 618237.97 216373.93 618238.26 216356.34 618238.99 216324.98 618246.5 216323.31 618285.03 216321.73 618306.31 216320.67 618329.27 216317.39 618373.72 216312.23 618423.3 216399.14 618392.35 216429.56 618382.15 216434.25 618380.32 216484 618362.92 216468.59 618307.29 216468.02 618305.08 216450.69 618237.36 216447.39 618224.47</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Kom</ot:rodzaj>
+			<ot:wyznanie>0</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.7">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35D6-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_343_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_343_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_343_1</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k>0100_343_1</ot:x_kodKarto100k>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a7bebb04-5106-4737-b829-7385ea02119f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>207489.55 631665.11 207450.13 631639.76 207447.39 631643.51 207444.95 631646.87 207444.68 631647.26 207435.77 631666.17 207433.9 631679.95 207431.47 631700.5 207430.44 631709.16 207450.12 631721.33 207456.96 631725.56 207468.6 631732.7 207470.21 631735.21 207499.93 631760 207514.31 631771.51 207520.76 631776.67 207543.93 631801.66 207559.99 631827.31 207561.26 631829.34 207571.6 631856.65 207577.47 631883.45 207581.11 631887.57 207581.55 631889.23 207582.87 631901.63 207583.29 631905.58 207583.64 631908.9 207583.47 631922.54 207583.38 631929.23 207586.28 631929.99 207607.39 631935.55 207607.5 631935.58 207607.6 631935.61 207628.53 631941.12 207646 631948.58 207657.02 631959.77 207665.05 631970.01 207665.13 631969.97 207721.63 631930.85 207689.67 631898.51 207674.56 631828.8 207608.34 631764.89 207588.58 631751.53 207489.55 631665.11</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Wzn</ot:rodzaj>
+			<ot:wyznanie>1</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUCM_A gml:id="OT_BUCM_A.10">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-35D9-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUCM01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>MA</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_344_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_344_1</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k>0050_344_1</ot:x_kodKarto50k>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d60d9408-6eff-4fd2-841e-a48e7038da4b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>207777.68 620074.28 207763.25 620048.74 207761.95 620047.69 207757.55 620044.1 207754.24 620040.42 207746.88 620041.9 207742.54 620043.38 207739.36 620045.07 207732.35 620050.55 207729.2 620053.01 207725.29 620055.13 207721.69 620056.08 207719.36 620055.97 207717.35 620055.23 207713.98 620052.32 207710.89 620049.66 207707.55 620052.94 207696.58 620054 207658.97 620057.61 207672.17 620086.99 207685.97 620117.71 207791.79 620207.71 207794.37 620191.66 207794.63 620186.18 207794.53 620179.4 207794.1 620171.78 207793.26 620158.45 207792.2 620153.9 207799.67 620147.94 207774.4 620077.57 207778.44 620075.61 207777.68 620074.28</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:rodzaj>Wzn</ot:rodzaj>
+			<ot:wyznanie>0</ot:wyznanie>
+		</ot:OT_BUCM_A>
+	</gml:featureMember>
+</gml:FeatureCollection>
