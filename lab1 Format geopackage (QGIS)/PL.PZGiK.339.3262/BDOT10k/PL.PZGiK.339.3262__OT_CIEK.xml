@@ -1,0 +1,1737 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mz="urn:gugik:specyfikacje:gmlas:mapaZasadnicza:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0" gml:id="GUGiK_OT_CIEK" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0 ../XSD/OT_BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.135259">
+			<ot:idPRNG>135259</ot:idPRNG>
+			<ot:nazwa>Szeroki Rów</ot:nazwa>
+			<ot:dlugosc uom="km">3.1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>135259</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.252392">
+			<ot:idPRNG>252392</ot:idPRNG>
+			<ot:nazwa>Kanał Opaskowy</ot:nazwa>
+			<ot:dlugosc uom="km">5.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>252392</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.268332">
+			<ot:idPRNG>268332</ot:idPRNG>
+			<ot:nazwa>Czerwonak</ot:nazwa>
+			<ot:dlugosc uom="km">2.9</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>268332</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.262566">
+			<ot:idPRNG>262566</ot:idPRNG>
+			<ot:nazwa>Żabi Rów</ot:nazwa>
+			<ot:dlugosc uom="km">0.6</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>262566</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.248551">
+			<ot:idPRNG>248551</ot:idPRNG>
+			<ot:nazwa>Francuski Rów</ot:nazwa>
+			<ot:dlugosc uom="km">0.9</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>248551</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.262986">
+			<ot:idPRNG>262986</ot:idPRNG>
+			<ot:nazwa>Mieleński Rów</ot:nazwa>
+			<ot:dlugosc uom="km">0.2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>262986</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.202549">
+			<ot:idPRNG>202549</ot:idPRNG>
+			<ot:nazwa>Domiąża</ot:nazwa>
+			<ot:dlugosc uom="km">4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>202549</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.239957">
+			<ot:idPRNG>239957</ot:idPRNG>
+			<ot:nazwa>Gęsi Rów</ot:nazwa>
+			<ot:dlugosc uom="km">0.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>239957</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.268403">
+			<ot:idPRNG>268403</ot:idPRNG>
+			<ot:nazwa>Bystry Potok</ot:nazwa>
+			<ot:dlugosc uom="km">1.1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>268403</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.202214">
+			<ot:idPRNG>202214</ot:idPRNG>
+			<ot:nazwa>Kanał Borzysławiecki</ot:nazwa>
+			<ot:dlugosc uom="km">3.6</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>202214</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.72218">
+			<ot:idPRNG>72218</ot:idPRNG>
+			<ot:nazwa>Łąka</ot:nazwa>
+			<ot:dlugosc uom="km">5.2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>72218</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.268412">
+			<ot:idPRNG>268412</ot:idPRNG>
+			<ot:nazwa>Leszczyniec</ot:nazwa>
+			<ot:dlugosc uom="km">5.2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>268412</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.248553">
+			<ot:idPRNG>248553</ot:idPRNG>
+			<ot:nazwa>Kaczy Przekop</ot:nazwa>
+			<ot:dlugosc uom="km">0.1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>248553</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.268348">
+			<ot:idPRNG>268348</ot:idPRNG>
+			<ot:nazwa>Leniwka</ot:nazwa>
+			<ot:dlugosc uom="km">3.9</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>268348</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.262988">
+			<ot:idPRNG>262988</ot:idPRNG>
+			<ot:nazwa>Fabryczny Kanał</ot:nazwa>
+			<ot:dlugosc uom="km">0.8</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>262988</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.262987">
+			<ot:idPRNG>262987</ot:idPRNG>
+			<ot:nazwa>Okoni Przesmyk</ot:nazwa>
+			<ot:dlugosc uom="km">0.8</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>262987</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.53">
+			<ot:idPRNG>131473</ot:idPRNG>
+			<ot:nazwa>Stołczynka</ot:nazwa>
+			<ot:dlugosc uom="km">1.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>131473</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.34">
+			<ot:idPRNG>10701</ot:idPRNG>
+			<ot:nazwa>Brynecki Nurt</ot:nazwa>
+			<ot:dlugosc uom="km">3.1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>10701</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.59">
+			<ot:idPRNG>161387</ot:idPRNG>
+			<ot:nazwa>Zielonka</ot:nazwa>
+			<ot:dlugosc uom="km">1.3</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>161387</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.105">
+			<ot:idPRNG>201271</ot:idPRNG>
+			<ot:nazwa>Śmierdnicki Potok</ot:nazwa>
+			<ot:dlugosc uom="km">6.1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>201271</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.4">
+			<ot:idPRNG>67779</ot:idPRNG>
+			<ot:nazwa>Leśny Rów</ot:nazwa>
+			<ot:dlugosc uom="km">1.3</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>67779</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.89">
+			<ot:idPRNG>97427</ot:idPRNG>
+			<ot:nazwa>Parnicki Przekop</ot:nazwa>
+			<ot:dlugosc uom="km">1.3</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>97427</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.93">
+			<ot:idPRNG>138144</ot:idPRNG>
+			<ot:nazwa>Święcisko</ot:nazwa>
+			<ot:dlugosc uom="km">0.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>138144</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.39">
+			<ot:idPRNG>144387</ot:idPRNG>
+			<ot:nazwa>Warszewiec</ot:nazwa>
+			<ot:dlugosc uom="km">3.6</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>144387</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.17">
+			<ot:idPRNG>39964</ot:idPRNG>
+			<ot:nazwa>Grzybnica</ot:nazwa>
+			<ot:dlugosc uom="km">5.7</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>39964</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.57">
+			<ot:idPRNG>94430</ot:idPRNG>
+			<ot:nazwa>Osiniec</ot:nazwa>
+			<ot:dlugosc uom="km">1.3</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>94430</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.3">
+			<ot:idPRNG>201742</ot:idPRNG>
+			<ot:nazwa>Wierzbak</ot:nazwa>
+			<ot:dlugosc uom="km">0.6</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>201742</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.72">
+			<ot:idPRNG>14613</ot:idPRNG>
+			<ot:nazwa>Ceglinka</ot:nazwa>
+			<ot:dlugosc uom="km">1.6</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>14613</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.18">
+			<ot:idPRNG>40220</ot:idPRNG>
+			<ot:nazwa>Gumieniec</ot:nazwa>
+			<ot:dlugosc uom="km">3.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>40220</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.49">
+			<ot:idPRNG>86628</ot:idPRNG>
+			<ot:nazwa>Niedźwiedzianka</ot:nazwa>
+			<ot:dlugosc uom="km">10.9</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>86628</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.55">
+			<ot:idPRNG>157647</ot:idPRNG>
+			<ot:nazwa>Zaleski Rów</ot:nazwa>
+			<ot:dlugosc uom="km">1.3</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>157647</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.33">
+			<ot:idPRNG>22684</ot:idPRNG>
+			<ot:nazwa>Dąbski Nurt</ot:nazwa>
+			<ot:dlugosc uom="km">0.8</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>22684</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.81">
+			<ot:idPRNG>34444</ot:idPRNG>
+			<ot:nazwa>Goleniowski Nurt</ot:nazwa>
+			<ot:dlugosc uom="km">0.4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>34444</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.91">
+			<ot:idPRNG>123675</ot:idPRNG>
+			<ot:nazwa>Kanał Skolwiński</ot:nazwa>
+			<ot:dlugosc uom="km">1.4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>123675</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.36">
+			<ot:idPRNG>119011</ot:idPRNG>
+			<ot:nazwa>Rybny Kanał</ot:nazwa>
+			<ot:dlugosc uom="km">1.4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>119011</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.28">
+			<ot:idPRNG>201834</ot:idPRNG>
+			<ot:nazwa>Kanał Iwno</ot:nazwa>
+			<ot:dlugosc uom="km">6.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>201834</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.102">
+			<ot:idPRNG>116123</ot:idPRNG>
+			<ot:nazwa>Rokiciński Rów</ot:nazwa>
+			<ot:dlugosc uom="km">2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>116123</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.115">
+			<ot:idPRNG>202228</ot:idPRNG>
+			<ot:nazwa>Brdowski Przekop</ot:nazwa>
+			<ot:dlugosc uom="km">0.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>202228</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.43">
+			<ot:idPRNG>32829</ot:idPRNG>
+			<ot:nazwa>Glinianka</ot:nazwa>
+			<ot:dlugosc uom="km">3.4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>32829</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.30">
+			<ot:idPRNG>56779</ot:idPRNG>
+			<ot:nazwa>Komarowski Kanał</ot:nazwa>
+			<ot:dlugosc uom="km">5.4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>56779</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.80">
+			<ot:idPRNG>27042</ot:idPRNG>
+			<ot:nazwa>Duńczyca Zachodnia</ot:nazwa>
+			<ot:dlugosc uom="km">0.4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>27042</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.96">
+			<ot:idPRNG>151550</ot:idPRNG>
+			<ot:nazwa>Kanał Przemysłowy</ot:nazwa>
+			<ot:dlugosc uom="km">1.2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>151550</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.110">
+			<ot:idPRNG>86373</ot:idPRNG>
+			<ot:nazwa>Kanał Niebuszewski</ot:nazwa>
+			<ot:dlugosc uom="km">2.7</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>86373</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.13">
+			<ot:idPRNG>91256</ot:idPRNG>
+			<ot:nazwa>Odra</ot:nazwa>
+			<ot:dlugosc uom="km">841</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>91256</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.35">
+			<ot:idPRNG>115115</ot:idPRNG>
+			<ot:nazwa>Regaliczka</ot:nazwa>
+			<ot:dlugosc uom="km">4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>115115</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.95">
+			<ot:idPRNG>149996</ot:idPRNG>
+			<ot:nazwa>Wola Głębia</ot:nazwa>
+			<ot:dlugosc uom="km">0.2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>149996</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.111">
+			<ot:idPRNG>202577</ot:idPRNG>
+			<ot:nazwa>Mienia</ot:nazwa>
+			<ot:dlugosc uom="km">1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>202577</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.113">
+			<ot:idPRNG>135260</ot:idPRNG>
+			<ot:nazwa>Szeroki Rów</ot:nazwa>
+			<ot:dlugosc uom="km">1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>135260</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.42">
+			<ot:idPRNG>24046</ot:idPRNG>
+			<ot:nazwa>Długi Rów</ot:nazwa>
+			<ot:dlugosc uom="km">1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>24046</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.79">
+			<ot:idPRNG>27041</ot:idPRNG>
+			<ot:nazwa>Duńczyca Wschodnia</ot:nazwa>
+			<ot:dlugosc uom="km">0.4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>27041</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.58">
+			<ot:idPRNG>162982</ot:idPRNG>
+			<ot:nazwa>Żabiniec</ot:nazwa>
+			<ot:dlugosc uom="km">1.9</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>162982</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.108">
+			<ot:idPRNG>205043</ot:idPRNG>
+			<ot:nazwa>Kanał Załomski</ot:nazwa>
+			<ot:dlugosc uom="km">4.3</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>205043</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.60">
+			<ot:idPRNG>118273</ot:idPRNG>
+			<ot:nazwa>Rudzianka</ot:nazwa>
+			<ot:dlugosc uom="km">3.9</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>118273</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.41">
+			<ot:idPRNG>17160</ot:idPRNG>
+			<ot:nazwa>Cicha Woda</ot:nazwa>
+			<ot:dlugosc uom="km">1.1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>17160</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.52">
+			<ot:idPRNG>122334</ot:idPRNG>
+			<ot:nazwa>Sienniczka</ot:nazwa>
+			<ot:dlugosc uom="km">2.3</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>122334</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.83">
+			<ot:idPRNG>38986</ot:idPRNG>
+			<ot:nazwa>Grodzki Kanał</ot:nazwa>
+			<ot:dlugosc uom="km">0.4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>38986</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.107">
+			<ot:idPRNG>134895</ot:idPRNG>
+			<ot:nazwa>Szczucza Struga</ot:nazwa>
+			<ot:dlugosc uom="km">0.4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>134895</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.19">
+			<ot:idPRNG>111270</ot:idPRNG>
+			<ot:nazwa>Przęsocińska Struga</ot:nazwa>
+			<ot:dlugosc uom="km">5.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>111270</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.26">
+			<ot:idPRNG>15357</ot:idPRNG>
+			<ot:nazwa>Chełszcząca</ot:nazwa>
+			<ot:dlugosc uom="km">8.3</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>15357</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.116">
+			<ot:idPRNG>205046</ot:idPRNG>
+			<ot:nazwa>Kanał Bystra</ot:nazwa>
+			<ot:dlugosc uom="km">4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>205046</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.6">
+			<ot:idPRNG>7606</ot:idPRNG>
+			<ot:nazwa>Bogdanka</ot:nazwa>
+			<ot:dlugosc uom="km">2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>7606</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.84">
+			<ot:idPRNG>42536</ot:idPRNG>
+			<ot:nazwa>Iński Nurt</ot:nazwa>
+			<ot:dlugosc uom="km">1.1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>42536</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.32">
+			<ot:idPRNG>22680</ot:idPRNG>
+			<ot:nazwa>Dąbska Struga</ot:nazwa>
+			<ot:dlugosc uom="km">0.8</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>22680</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.22">
+			<ot:idPRNG>131197</ot:idPRNG>
+			<ot:nazwa>Stobnica</ot:nazwa>
+			<ot:dlugosc uom="km">4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>131197</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.27">
+			<ot:idPRNG>201266</ot:idPRNG>
+			<ot:nazwa>Sosnówka</ot:nazwa>
+			<ot:dlugosc uom="km">7.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>201266</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.5">
+			<ot:idPRNG>71398</ot:idPRNG>
+			<ot:nazwa>Policki Nurt</ot:nazwa>
+			<ot:dlugosc uom="km">6.2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>71398</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.38">
+			<ot:idPRNG>93154</ot:idPRNG>
+			<ot:nazwa>Omulna</ot:nazwa>
+			<ot:dlugosc uom="km">13.3</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>93154</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.51">
+			<ot:idPRNG>101819</ot:idPRNG>
+			<ot:nazwa>Piwny Rów</ot:nazwa>
+			<ot:dlugosc uom="km">0.2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>101819</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.50">
+			<ot:idPRNG>94747</ot:idPRNG>
+			<ot:nazwa>Osówka</ot:nazwa>
+			<ot:dlugosc uom="km">5.2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>94747</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.56">
+			<ot:idPRNG>163941</ot:idPRNG>
+			<ot:nazwa>Żołnierska Struga</ot:nazwa>
+			<ot:dlugosc uom="km">5.1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>163941</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.1">
+			<ot:idPRNG>201736</ot:idPRNG>
+			<ot:nazwa>Wielecki Potok</ot:nazwa>
+			<ot:dlugosc uom="km">4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>201736</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.82">
+			<ot:idPRNG>37602</ot:idPRNG>
+			<ot:nazwa>Grabowy Rów</ot:nazwa>
+			<ot:dlugosc uom="km">1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>37602</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.78">
+			<ot:idPRNG>27040</ot:idPRNG>
+			<ot:nazwa>Duńczyca</ot:nazwa>
+			<ot:dlugosc uom="km">2.6</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>27040</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.2">
+			<ot:idPRNG>201737</ot:idPRNG>
+			<ot:nazwa>Pilchówka</ot:nazwa>
+			<ot:dlugosc uom="km">2.1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>201737</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.73">
+			<ot:idPRNG>17755</ot:idPRNG>
+			<ot:nazwa>Cieśnica</ot:nazwa>
+			<ot:dlugosc uom="km">3.2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>17755</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.44">
+			<ot:idPRNG>38513</ot:idPRNG>
+			<ot:nazwa>Gręziniec</ot:nazwa>
+			<ot:dlugosc uom="km">5.8</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>38513</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.109">
+			<ot:idPRNG>123673</ot:idPRNG>
+			<ot:nazwa>Nowy Przekop</ot:nazwa>
+			<ot:dlugosc uom="km">1.8</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>123673</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.46">
+			<ot:idPRNG>167501</ot:idPRNG>
+			<ot:nazwa>Kijanka</ot:nazwa>
+			<ot:dlugosc uom="km">2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>167501</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.9">
+			<ot:idPRNG>115112</ot:idPRNG>
+			<ot:nazwa>Regalica</ot:nazwa>
+			<ot:dlugosc uom="km">8.8</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>115112</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.104">
+			<ot:idPRNG>102484</ot:idPRNG>
+			<ot:nazwa>Płonia</ot:nazwa>
+			<ot:dlugosc uom="km">75.6</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>102484</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.100">
+			<ot:idPRNG>1442</ot:idPRNG>
+			<ot:nazwa>Babina</ot:nazwa>
+			<ot:dlugosc uom="km">1.3</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>1442</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.88">
+			<ot:idPRNG>97426</ot:idPRNG>
+			<ot:nazwa>Parnica</ot:nazwa>
+			<ot:dlugosc uom="km">5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>97426</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.99">
+			<ot:idPRNG>152354</ot:idPRNG>
+			<ot:nazwa>Wydrnik</ot:nazwa>
+			<ot:dlugosc uom="km">1.7</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>152354</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.114">
+			<ot:idPRNG>143244</ot:idPRNG>
+			<ot:nazwa>Ustowski Rów</ot:nazwa>
+			<ot:dlugosc uom="km">1.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>143244</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.98">
+			<ot:idPRNG>201735</ot:idPRNG>
+			<ot:nazwa>Jasmudzka Struga</ot:nazwa>
+			<ot:dlugosc uom="km">1.8</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>201735</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.45">
+			<ot:idPRNG>45062</ot:idPRNG>
+			<ot:nazwa>Jasna Woda</ot:nazwa>
+			<ot:dlugosc uom="km">0.7</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>45062</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.94">
+			<ot:idPRNG>138163</ot:idPRNG>
+			<ot:nazwa>Święta</ot:nazwa>
+			<ot:dlugosc uom="km">3.1</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>138163</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.16">
+			<ot:idPRNG>13140</ot:idPRNG>
+			<ot:nazwa>Bukowa</ot:nazwa>
+			<ot:dlugosc uom="km">6.8</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>13140</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.20">
+			<ot:idPRNG>123672</ot:idPRNG>
+			<ot:nazwa>Skolwinka</ot:nazwa>
+			<ot:dlugosc uom="km">4.9</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>123672</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.47">
+			<ot:idPRNG>70047</ot:idPRNG>
+			<ot:nazwa>Lubczyński Nurt</ot:nazwa>
+			<ot:dlugosc uom="km">0.6</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>70047</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.40">
+			<ot:idPRNG>1019</ot:idPRNG>
+			<ot:nazwa>Arkonka</ot:nazwa>
+			<ot:dlugosc uom="km">2.2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>1019</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.77">
+			<ot:idPRNG>22965</ot:idPRNG>
+			<ot:nazwa>Kanał Dębicki</ot:nazwa>
+			<ot:dlugosc uom="km">1.3</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>22965</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.37">
+			<ot:idPRNG>163489</ot:idPRNG>
+			<ot:nazwa>Kanał Żeglarski</ot:nazwa>
+			<ot:dlugosc uom="km">0.4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>163489</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.7">
+			<ot:idPRNG>91260</ot:idPRNG>
+			<ot:nazwa>Odra Wschodnia</ot:nazwa>
+			<ot:dlugosc uom="km">26.4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>91260</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.97">
+			<ot:idPRNG>161519</ot:idPRNG>
+			<ot:nazwa>Kanał Zielony</ot:nazwa>
+			<ot:dlugosc uom="km">0.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>161519</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.85">
+			<ot:idPRNG>54270</ot:idPRNG>
+			<ot:nazwa>Kanał Klucki</ot:nazwa>
+			<ot:dlugosc uom="km">2.4</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>54270</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.29">
+			<ot:idPRNG>18603</ot:idPRNG>
+			<ot:nazwa>Czapina</ot:nazwa>
+			<ot:dlugosc uom="km">1.2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>18603</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.86">
+			<ot:idPRNG>78008</ot:idPRNG>
+			<ot:nazwa>Martwa Woda</ot:nazwa>
+			<ot:dlugosc uom="km">0.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>78008</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.87">
+			<ot:idPRNG>79756</ot:idPRNG>
+			<ot:nazwa>Mieleński Przekop</ot:nazwa>
+			<ot:dlugosc uom="km">5.6</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>79756</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.8">
+			<ot:idPRNG>147295</ot:idPRNG>
+			<ot:nazwa>Wietlina</ot:nazwa>
+			<ot:dlugosc uom="km">2</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>147295</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.54">
+			<ot:idPRNG>131969</ot:idPRNG>
+			<ot:nazwa>Struga</ot:nazwa>
+			<ot:dlugosc uom="km">0.5</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>131969</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_Ciek gml:id="OT_Ciek.112">
+			<ot:idPRNG>67884</ot:idPRNG>
+			<ot:nazwa>Leśny Kanał</ot:nazwa>
+			<ot:dlugosc uom="km">3.7</ot:dlugosc>
+			<ot:PRNG>
+				<bt:BT_ReferencjaDoObiektu>
+					<bt:idIIP>
+						<bt:BT_Identyfikator>
+							<bt:lokalnyId>67884</bt:lokalnyId>
+							<bt:przestrzenNazw>PL.PZGiK.320.NGRP</bt:przestrzenNazw>
+						</bt:BT_Identyfikator>
+					</bt:idIIP>
+				</bt:BT_ReferencjaDoObiektu>
+			</ot:PRNG>
+		</ot:OT_Ciek>
+	</gml:featureMember>
+</gml:FeatureCollection>
