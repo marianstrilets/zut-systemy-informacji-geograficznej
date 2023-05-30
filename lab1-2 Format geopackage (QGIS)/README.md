@@ -10,3 +10,6 @@ Daje on namdo dyspozycji zaawansowane funkcje SQL (m.in. indeksowanie, funkcje g
 #### Cel:
 
 Celem ćwiczenia jest zapoznanie się z podstawowymi funkcjamibazy  danych  GeoPackage  oraz stylizacja mapy z odpowiednimi ustawieniami dotyczącymi zakresów widoczności warstw po skali, wybierania danych i stylizacji z wykorzystaniem funkcji SQL.
+
+
+
