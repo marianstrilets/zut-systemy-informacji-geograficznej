@@ -10,5 +10,6 @@
 
 #### Lab 7-8 Biblioteka rasterio - dane rastowe (Python)
 
-#### Lab-9: Kalibracja i rektyfikacja (QGIS)
+#### Lab 9: Kalibracja i rektyfikacja (QGIS)
 
+#### Lab 10-11 Przedstawienie podstawowych komend SQL stosowanych w analizach eometrii w GIS
