@@ -1,6 +1,6 @@
-### Systemy informacji geograficznej
+#### Systemy informacji geograficznej
 
-#### Struktura plików:
+##### Struktura plików:
 
 ```bash
 ├── lab-1: 
