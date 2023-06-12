@@ -1,0 +1,16 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>OT_SzlakDrogowy</Name>
+    <ElementPath>OT_SzlakDrogowy</ElementPath>
+    <GeometryType>100</GeometryType>
+    <DatasetSpecificInfo>
+      <FeatureCount>1189</FeatureCount>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>numer</Name>
+      <ElementPath>numer</ElementPath>
+      <Type>String</Type>
+      <Width>7</Width>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

@@ -1,0 +1,1238 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mz="urn:gugik:specyfikacje:gmlas:mapaZasadnicza:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0" gml:id="GUGiK_OT_KUKO_P" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0 ../XSD/OT_BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.aaf6c240-604d-11ed-9f94-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>aaf6c241-604d-11ed-8b61-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO06</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-825530de-a5a9-4db6-8e9b-1eaffeb11a93-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>205474.82 625594.47</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.aa40919e-604d-11ed-b1f4-5404a6a68038"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.aaf75e80-604d-11ed-a441-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>aaf75e81-604d-11ed-abd6-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO06</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-0cc592af-9e7f-4d7d-941f-783ffa9b0f18-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>212233.37 622773.84</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.aa4091a0-604d-11ed-96fd-5404a6a68038"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.aaf78591-604d-11ed-813c-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>aaf78592-604d-11ed-a995-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-0513f59d-2bc0-4cbd-bbd7-68565c33d812-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>210235.82 623496.22</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.aa4377d1-604d-11ed-8a7b-5404a6a68038"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.aaf7d3ae-604d-11ed-bf07-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>aaf7d3af-604d-11ed-96cd-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-92d4c3a6-f81c-4c3f-87e3-266aaf763ba2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>211915.92 624204.3</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.aa4377d3-604d-11ed-a32d-5404a6a68038"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.aaf7d3b0-604d-11ed-a6f8-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>aaf7d3b1-604d-11ed-9a60-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-f8b8e96c-8ed8-4b84-b08c-e5a466b7d1a0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>212020.61 624065.97</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.aa4377d5-604d-11ed-96b4-5404a6a68038"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.1">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58CD-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO06</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-b9484d6a-d521-43a1-b003-b318f1efd3b4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>200579.75 624217.54</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.33"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.2">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58CE-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Marina Gocław - Zachodniopomorski Związek Żeglarski</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-7551eb16-1490-439d-bdb9-65c843a0682f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>208427.61 632333.9</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.34"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.3">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58CF-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO06</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-d9152937-f030-4417-9be3-d360bbc2bf81-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>209370.78 636895.06</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.37"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.4">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58D0-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Terminal Cargo-Port</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-2de83b56-0ead-4935-9efc-69311531fb65-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>208793.55 632833.75</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.38"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.5">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58D1-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-c045b337-c7ed-455c-aea5-5967c87060ab-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>208956.43 637953.02</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.39"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.6">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58D2-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-6099966f-d531-409f-b19d-8fe7113bf3e5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>209419.83 634944.49</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.45"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.7">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58D3-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO06</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-7ac751d9-fde0-4dae-b573-1c227df0a45e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>209223.18 634409.33</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.40"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.8">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58D4-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-dfdecfd7-542b-418e-95c0-5b7862cc453c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>209235.62 623658.25</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.49"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.9">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58D5-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-5eb6e8db-d707-4ab6-8731-5bbcf78b3a9b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>204866.34 625448.98</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.56"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.10">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58D6-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO06</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-db93544e-ba4a-49c1-bca2-930d4765ac93-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>206489.09 619721.19</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.61"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.11">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58D7-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-0d286100-8660-4c3b-add6-031302423f0c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>207948.1 623358.52</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.65"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.12">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58D8-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>port rybacki</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-c09a65fe-1b09-4031-b3ee-204feb178bde-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>211495.49 623696.09</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.87"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.13">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58D9-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-8964d835-068e-4f52-b118-74f07bba0f63-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>212273.15 624112.68</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.88"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.14">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58DA-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-0bedbb9e-a35f-475a-85c8-5b41b35a1234-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>209584.29 623544.28</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.90"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.15">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58DB-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Polski Koncern Naftowy ORLEN SA</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-5dc97a4b-675b-4e3b-a36c-0cb1956e3714-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>207745.98 625213.13</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.94"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.16">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58DC-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-f14ee8a4-b74a-455d-b9d5-6f72774af264-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>203477.14 624686.06</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.96"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.17">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58DD-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-0d995d7f-113e-4668-9c8c-b542b482e128-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>204082.44 625465.84</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.98"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.18">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58DE-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-a1d3ad0b-6277-4c0d-bd0d-f3c62a953c7c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>204064.6 625063.06</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.99"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.19">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58DF-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-6c0b5104-8f5c-4517-bed6-41cfbb40d166-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>209946.59 623464.7</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.109"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.21">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58E1-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-07709659-f6dc-4081-bff6-f0d731b8bee7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>208724.09 623927.38</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.113"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.22">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58E2-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO02</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Aeroklub Szczeciński</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-19b0c241-79e1-44ee-929e-3e8bad281cb3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>210126.02 622527.07</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.117"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.23">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58E3-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO06</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-5f9cc8aa-aa42-4e65-8c3a-747abcd06339-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>204370.65 626242.06</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.191"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.24">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58E4-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-4b2c807f-66ed-4e3b-950a-bd36334568bc-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>207160.32 630206.29</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.169"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.25">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58E5-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-60bdd009-54e4-4c38-91e4-8be129312aaa-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>204655.43 626496.54</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.174"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUKO_P gml:id="OT_KUKO_P.26">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-58E6-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUKO05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria2>
+				<gml:Point gml:id="id-f8f739f7-3cd3-4644-92fa-39f544aa4189-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>207098.99 629514.79</gml:pos>
+				</gml:Point>
+			</ot:geometria2>
+			<ot:kuko_a1 xlink:href="PL.PZGiK.339.3262__OT_KUKO_A.xml#OT_KUKO_A.194"/>
+		</ot:OT_KUKO_P>
+	</gml:featureMember>
+</gml:FeatureCollection>

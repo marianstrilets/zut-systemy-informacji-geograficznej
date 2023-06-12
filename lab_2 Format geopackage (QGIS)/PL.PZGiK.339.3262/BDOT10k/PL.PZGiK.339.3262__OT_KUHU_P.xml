@@ -1,0 +1,1233 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mz="urn:gugik:specyfikacje:gmlas:mapaZasadnicza:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0" gml:id="GUGiK_OT_KUHU_P" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0 ../XSD/OT_BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.25">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57FE-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-d129b4e2-1da9-4963-9804-6344eb451284-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>204609.75 627382.6</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.36"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.26">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57FF-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-5fa09295-a512-4adf-8aef-05d2f6223666-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>204846.22 627954</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.38"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.27">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-5800-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-194c8f2d-c0d1-4e9f-a989-c1d6bec9712a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>206147.56 630524.02</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.39"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.28">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-5801-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-5967a8d2-537a-4699-9ab7-a1ef1c8a5de5-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>201356.99 623251.83</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.21"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.29">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-5802-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-8ac51afa-932b-4f0a-9a6e-7a6b76a4e651-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>201580.48 623139.58</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.22"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.b15127a8-20bd-43cd-aafb-71c920078e76">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>937e287f-e284-4a13-a927-3484e9f40ce8</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-27372de7-c394-46ef-bd79-17e5c40c9a61-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>201086.26 623670.46</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.06ef3970-4bf1-4408-b3dd-93c14bffb285"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.17">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57F6-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-3e4d9672-c445-4574-8280-4dcbe1386b39-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>201537.18 629145.7</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.23"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.18">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57F7-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-fea63888-abf4-45cc-ad5a-15908de3fde7-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>204855.55 628329.79</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.24"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.19">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57F8-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-af3f2945-a2db-4797-906a-187a15c59dec-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>204290.02 630892.73</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.25"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.20">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57F9-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-5c2e1d0e-8576-4883-8117-70bcf9abfd83-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>202165.53 628063.39</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.27"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.21">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57FA-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-f75b07f2-3a75-4035-9817-200a21709539-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>203074.39 627145.45</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.28"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.22">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57FB-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-3c16aed6-8c72-4515-8c4f-195f97ced631-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>203208.59 627530.6</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.30"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.23">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57FC-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-0455adc9-f6c3-4a3f-bd54-8517d63bf50b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>205545.51 630162.31</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.33"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.1">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57E6-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-ddbbbabd-7a20-4999-8705-36683d15d669-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>199606.61 630656.25</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.2"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.2">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57E7-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-8a2c1008-e20f-4687-8927-63b7e2ef36a8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>200209.86 630479.62</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.3"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.3">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57E8-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-060687c3-3690-4acc-bac5-97f616d0003f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>199550.47 627503.25</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.4"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.4">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57E9-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-5f8b9c61-77c7-4e04-b3e4-e5304eb0b01c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>200304.12 627646.16</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.5"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.24">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57FD-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-d90971b4-bd1a-4a38-b88a-4c9d8cc9f91f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>203954.05 627214.65</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.35"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.5">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57EA-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-7a78cc8a-10cd-432a-bc15-245cb8819316-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>200226.15 627732.11</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.6"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.6">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57EB-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-1f0de52e-c8a2-4290-9d4d-89dff24a8edb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>207212.9 634688.21</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.7"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.7">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57EC-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-356f305e-491b-470b-b845-e68ade8c8059-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>201381.63 624472.13</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.8"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.8">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57ED-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-620a3d7d-d61b-4483-8169-b78956b661a2-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>201180.19 624603.51</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.9"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.9">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57EE-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-48fd38ae-4207-468c-8dc9-9fa56a035194-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>202566.73 625351.81</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.20"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.10">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57EF-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-6b6532df-ceba-4d7f-a9a8-22ad74750e94-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>212854.54 623532.69</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.11"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.11">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57F0-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-e2113611-9581-425e-bccd-6e527eea54d3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>211187.51 621735.72</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.13"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.12">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57F1-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-0c8ad700-f2d6-4a30-ab54-e94c531cd6bd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>202185.94 624966.02</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.14"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.13">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57F2-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-292a3952-f08d-4c01-be2a-8bf213ee7ba4-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>212024.32 621695.99</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.15"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.14">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57F3-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-08b1fa5b-68eb-42fe-adb2-a9386a5f312e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>211704.06 622079.39</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.17"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.15">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57F4-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-29ea9caf-d5eb-4ff8-884b-19b0871e023c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>211469.81 622237.47</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.18"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUHU_P gml:id="OT_KUHU_P.16">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-57F5-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUHU01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>PU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2011-01-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2013-04-04</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Point gml:id="id-83319770-90e7-4500-8874-9ea541aebdcb-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:pos>211428.83 622092.59</gml:pos>
+				</gml:Point>
+			</ot:geometria>
+			<ot:kuhu_a xlink:href="PL.PZGiK.339.3262__OT_KUHU_A.xml#OT_KUHU_A.19"/>
+		</ot:OT_KUHU_P>
+	</gml:featureMember>
+</gml:FeatureCollection>

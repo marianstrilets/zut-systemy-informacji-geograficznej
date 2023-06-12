@@ -1,0 +1,768 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mz="urn:gugik:specyfikacje:gmlas:mapaZasadnicza:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0" gml:id="GUGiK_OT_BUIT_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0 ../XSD/OT_BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.6">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-472C-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8a42753a-639f-4ca8-966b-9a5551fe14b0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>207099.38 635044.86 207081.77 635083.06 207075.6 635096.46 207068.16 635112.59 207054.37 635142.51 207044.75 635163.38 207064.57 635173.27 207072.34 635177.3 207077.42 635179.02 207083.51 635182.1 207088.01 635184.38 207093.23 635187.1 207110.01 635195.83 207141.81 635134.02 207142.87 635131.96 207153.22 635111.82 207159.84 635098.96 207161.81 635095.13 207166.96 635085.12 207099.38 635044.86</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.8">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-472E-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9d6593a4-a7b2-4d87-a194-505250e55db9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>212401.9 620534.45 212402.34 620537.41 212405.31 620557.32 212408.66 620579.71 212445.36 620585.22 212436.65 620531.5 212451.26 620529.06 212460.58 620587.51 212487.12 620591.5 212475.17 620525.08 212473.59 620513.57 212466.33 620460.75 212442.32 620463.82 212403.62 620468.76 212392.02 620470.24 212401.9 620534.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.9">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-472F-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ae891774-6a72-4999-bed4-443fc9430c49-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>206690.11 625328.36 206734.49 625287.53 206729.3 625281.86 206707.1 625257.6 206702.92 625261.55 206679.31 625283.81 206662.46 625299.7 206690.11 625328.36</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.11">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4731-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e62d8068-decc-4770-97d7-e07f4977ec7d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>205691.37 619013.96 205704.97 619026.47 205730.76 618989.97 205716.87 618979.69 205691.37 619013.96</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.12">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4732-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-aa527593-02ad-4a6b-a425-33ab662efc54-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>202112.07 624977.98 202077.21 624962.34 202043.57 625033.51 202040.04 625040.98 202090.73 625063.43 202094.02 625055.86 202077.83 625048.69 202089.86 625024.92 202103.15 624996.68 202112.07 624977.98</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.13">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4733-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-675a7495-af60-49c5-a76b-19882d8af86d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>202968.36 627095.51 203013.99 627089.73 203007.01 627015.48 203004.84 627015.97 203001.93 627016.63 202995.44 627009.11 202972.17 627016.29 202970.83 627040.05 202964.64 627040.55 202968.36 627095.51</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.3">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-472A-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c710bd72-4573-433d-a92b-ff495bc72cf0-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>199660.37 627218.13 199670.75 627203.53 199697.02 627166.59 199703.9 627157.25 199681.56 627140.7 199662.18 627128.25 199650.83 627144.55 199646.89 627150.19 199635.01 627167.19 199627.02 627178.62 199623.19 627184.11 199618.66 627190.59 199660.37 627218.13</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.14">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4734-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2cf8181c-2b3a-483a-bc7b-06d0d8df7f4a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>201603.56 630399.51 201608.24 630403.12 201645.66 630432 201651.99 630437.2 201657.49 630441.75 201697.22 630394.5 201645.49 630352.57 201603.56 630399.51</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.4">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-472B-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-22ee004b-7d4c-43ec-a75a-d2e605eff203-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>209560.81 636619.99 209517.02 636615.56 209513.39 636615.18 209508.87 636656.87 209511.87 636657.21 209556.25 636661.58 209558.79 636638.85 209560.81 636619.99</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.15">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4724-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-acded5b2-3f63-4bbe-80b3-217dfc36d4cd-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>206350.84 629758.84 206394.71 629733.98 206410.59 629725.19 206409.36 629722.78 206388.53 629681.85 206383.64 629672.72 206381.15 629672.91 206371.42 629673.66 206368.08 629675.28 206365.87 629676.36 206320.05 629701.59 206334.67 629728.95 206350.84 629758.84</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.16">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4725-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-12973365-893c-4c9d-8248-f08c82238852-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>204864.12 632309.26 204899.42 632283.35 204884.07 632262.6 204877.15 632253.6 204842.92 632271.88 204837.59 632274.26 204864.12 632309.26</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.2">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4729-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-817e0609-7a85-4de1-acf9-6aed63f35060-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>216381.58 626349.45 216422.84 626316.42 216410.69 626299.6 216421.66 626292.38 216408.24 626274.67 216377.9 626298.13 216365.21 626302.68 216353.26 626311.74 216381.58 626349.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.17">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4726-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a5e6712a-820a-40cf-8b0a-d9b6d31b7635-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>202881.12 630010.32 202908.68 630034.77 202903.57 630040.79 202909.6 630046.43 202911.24 630044.93 202922.96 630031.48 202929.15 630024.95 202937.46 630015.14 202915.09 629998.27 202901.22 629986.03 202881.12 630010.32</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.32">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4727-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-ff8545fb-c9a8-4528-9059-19e7c0333c27-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>207053.44 635344.97 207055.43 635341.09 207067.85 635347.24 207104.94 635271.42 207087.26 635262.57 207058.51 635249.29 207035.54 635237.65 207019.9 635229.73 207032.34 635205.06 207034.85 635200.38 206977.98 635176.88 206929.34 635271.53 206947.02 635280.85 206943.45 635287.59 207001.01 635317.24 207004.21 635317.91 207012.67 635322.92 207014 635324.49 207018.35 635326.73 207053.44 635344.97</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.10">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4730-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d2b58e1c-713b-4283-bcec-7c6cd1bc231c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>202433.71 623166.16 202429.84 623173.99 202419.95 623193.57 202409.71 623214.12 202403.78 623226.02 202401.75 623230.08 202394.54 623245.02 202413.47 623254.34 202444.98 623269.86 202492.16 623178.65 202452.01 623159.23 202433.71 623166.16</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.7">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-472D-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9fa566ea-5d2e-460a-a278-0b2c4d324990-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>209342.82 622455.8 209353.13 622447.27 209356.81 622444.33 209356.86 622444.18 209357.19 622443.2 209357.34 622442.74 209357.02 622440.52 209355.92 622436.08 209355.54 622433.96 209354.8 622432.9 209353.43 622432.16 209350.78 622431.73 209347.5 622432.41 209342 622433.53 209341.36 622428.35 209343.38 622427.96 209350.25 622426.65 209351.84 622426.13 209352.9 622424.86 209353.53 622423.27 209352.16 622414.48 209351.42 622413.53 209350.67 622413 209348.88 622412.47 209346.34 622412.16 209338.29 622413.85 209322.95 622417.34 209325.59 622428.24 209325.59 622429.52 209325.59 622436.77 209325.59 622439.04 209329.08 622455.34 209330.04 622456.92 209332.37 622458.3 209335.01 622458.83 209338.5 622457.77 209342.82 622455.8</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_BUIT_A gml:id="OT_BUIT_A.1">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-4728-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>BUIT04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia>Eks</ot:x_katIstnienia>
+			<ot:x_rodzajReprGeom>ZP</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k>0010_421_1</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Ztr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5fe06ed0-603a-45ca-8bbf-0d53d0a7e6c8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>213572.81 622358.86 213573.24 622360.36 213574.13 622362.09 213576.38 622363.54 213579.56 622364.21 213581.54 622364.34 213584.81 622364.02 213610.84 622357.25 213618.45 622354.81 213620.04 622353.62 213621.89 622350.71 213622.55 622348.6 213622.55 622345.02 213620.9 622339.13 213619.33 622333.54 213617.79 622327.43 213616.33 622324.52 213615.01 622322.67 213612.23 622321.74 213609.98 622321.34 213605.22 622322 213601.91 622307.98 213572.28 622316.32 213574.15 622323.71 213575.32 622330.07 213573.89 622330.51 213570.96 622331.4 213568.97 622333.51 213567.78 622336.03 213567.35 622339.61 213572.81 622358.86</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_BUIT_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

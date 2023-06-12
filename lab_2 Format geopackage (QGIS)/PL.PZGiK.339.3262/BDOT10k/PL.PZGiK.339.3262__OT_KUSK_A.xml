@@ -1,0 +1,2158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mz="urn:gugik:specyfikacje:gmlas:mapaZasadnicza:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0" gml:id="GUGiK_OT_KUSK_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0 ../XSD/OT_BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.6">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9A6-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6e7873a1-f5ad-422c-890c-68704b2abe76-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>206530.33 631376.33 206532.4 631381.33 206521.14 631387.02 206514.74 631391.63 206494.19 631407.57 206462.39 631424.03 206440.79 631434.72 206401.31 631478.84 206415.51 631529.32 206418.71 631540.71 206505.83 631609.44 206518.08 631619.1 206547.46 631592.4 206560.16 631569.99 206569.66 631555.76 206592.49 631536.45 206601.18 631529.52 206608.35 631521.71 206612.06 631515.18 206615.26 631506.35 206616.67 631496.24 206616.41 631489.84 206612.19 631478.96 206603.87 631452.33 206595.8 631429.68 206590.17 631411.24 206578.14 631374.76 206539.99 631376.56 206530.33 631376.33</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.5e8e764f-bd73-4956-b3fc-02e83071621e">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>c7c02cda-a267-4a4d-8030-07b96e28f488</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:nazwa>Park im. Jacka Karpińskiego</ot:nazwa>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5fddce79-dd19-4ae3-a26f-41554510e2da-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203854.22 629917.1 203891.25 629893.32 203929.02 629873.36 203971.32 629845.84 203923.69 629786.67 203886.78 629740.81 203854.06 629759.99 203834.32 629759.03 203820.16 629761.43 203816.47 629748.23 203807.92 629739.97 203798.35 629730.72 203777.78 629726.12 203765.97 629725.93 203760.51 629717.62 203752 629717.34 203735.18 629726.46 203738.47 629732.57 203766.83 629777.87 203752.07 629787.62 203780.59 629836.6 203791.44 629881.28 203807.24 629871.13 203854.22 629917.1</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.32">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A993-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>park im. Łuczywka</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-86be4a6e-ec8d-4135-bc14-fd76f59b24d3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>202319.77 629934.4 202434.51 629810.11 202362.73 629744.25 202246.81 629864.13 202252.47 629869.58 202319.77 629934.4</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.19">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A99C-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>tor kartingowy</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-0c9aa436-941e-407c-9060-4f553ea83a5c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>201727.14 630945.93 201760.62 630929.29 201799.2 630927.05 201821.63 630910.3 201840.81 630878.1 201837.23 630853.28 201841.24 630847.81 201871.81 630811.42 201854.18 630793.72 201862.08 630786.25 201857.21 630782.02 201860.31 630778.57 201842.48 630763.06 201839.38 630766.23 201837.19 630764.04 201823.28 630752.94 201801.63 630775.49 201781.85 630795.27 201755.48 630770.21 201735.1 630749.59 201721.92 630764.18 201659.35 630834.88 201726.56 630888.48 201698.45 630921.85 201727.14 630945.93</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.11">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A99E-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-22951e18-3440-499f-8a52-55d2ffa9fe51-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>211216.3 620011.21 211239.87 620009.56 211272.88 620008.13 211275.63 620007.92 211319.74 620004.58 211323.09 620004.44 211325.26 619967.7 211322.76 619964.13 211241.92 619959.62 211223.13 619958.47 211218.83 619961.27 211216.3 620011.21</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.34">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9A0-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Uniwersytet Szczeciński</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-99613a28-815a-48e1-829a-03d71ee72a2c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>204014.06 630327.02 204028.59 630316.76 204076.89 630281.97 204127.26 630245.51 204094.62 630211.14 203993.25 630098.37 203989.98 630094.9 203973.24 630109.62 203939.96 630138.9 203933.71 630144.4 203943.52 630156.42 203958.41 630174.68 203933 630189.98 203909.2 630212.15 203899.09 630201.39 203870.2 630227.13 203889.77 630248.73 203939.39 630303.49 203970.05 630278.52 204005.04 630317.08 204014.06 630327.02</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.18">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9A1-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-5dd45403-f9b9-46c8-9de6-78d9c7cc23b8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203096.48 629137.85 203102.25 629142.89 203121.48 629159.67 203131.05 629168.02 203136.88 629173.1 203142.29 629177.82 203145.75 629180.84 203148.92 629183.6 203152.85 629179.4 203162.61 629188.09 203172.96 629197.32 203182.98 629206.25 203193.46 629215.58 203198.77 629220.32 203202 629216.44 203212.37 629203.98 203214.15 629201.84 203218.54 629197.17 203226.77 629188.03 203240.3 629173 203253.87 629157.92 203261.1 629149.88 203266.24 629144.18 203268.43 629141.68 203281.29 629127.04 203287.13 629120.39 203293.73 629112.87 203306.59 629098.24 203321.19 629081.62 203325.84 629076.31 203336.8 629068.95 203339.2 629065.01 203337.39 629063.32 203340.82 629059.46 203349.9 629049.25 203343.74 629044.13 203345.77 629041.57 203322.26 629021.12 203313.61 629013.61 203310.57 629016.26 203280.77 628991.35 203277.32 628995.42 203260.55 629013.15 203245.86 629029.02 203241.96 629032.77 203216.22 629060.59 203195.66 629040.5 203189.89 629035.23 203164.16 629062.49 203151.2 629076.22 203138.96 629089.18 203096.48 629137.85</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.33">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9A2-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2ea94b8e-482d-4472-83a8-71ece108bfae-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>204292.42 628981.81 204351.69 629011.77 204379.33 628951.62 204374.45 628949.19 204381.77 628937.81 204377.21 628936.06 204325.72 628910.46 204317.61 628907.3 204312.79 628905.42 204308.28 628931.62 204303.02 628952.48 204296.49 628970.63 204292.42 628981.81</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.2">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9A3-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-02ca7a77-40e5-4df2-a64b-35de45d2cbc1-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>200007.43 629773.55 200097.99 629761.97 200108.3 629711.28 200073.1 629715.89 200046.01 629719.44 200019.14 629722.96 200002.05 629725.2 200007.43 629773.55</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.10">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A98E-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-0e3a3fd5-76db-4522-b5a4-903a537495d3-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>211164.07 621723.98 211224.86 621711.36 211262.44 621704.73 211258.6 621681.93 211258.12 621679.03 211242.82 621588.09 211205.36 621594.06 211134.21 621604.69 211137.16 621623.61 211141.83 621650.87 211142.63 621654.44 211151.73 621652.87 211153.77 621665.24 211155.59 621676.29 211157.11 621685.5 211159.24 621697.89 211164.07 621723.98</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.39">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A992-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-196da96d-9794-4a1f-b71e-6e57492c8cc8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>204964.71 629988.16 205006.52 629993.85 205067.92 629983.47 205096.29 629975.39 205071.56 629884.42 205072.73 629880.32 205083.86 629874.81 205086.21 629869.42 205077.53 629837.19 205053.74 629840.59 205041.9 629842.23 205019.91 629853.58 204983.75 629870.99 204977.16 629875.86 204975.03 629877.43 204981.32 629908.29 204969.85 629910.9 204922.99 629921.54 204941.56 629979.43 204942.97 629981.36 204945.19 629985.11 204964.71 629988.16</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.5">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9AA-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>przystań jachtowa</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:nazwa>NARWAL</ot:nazwa>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-96338b8d-c7d9-417d-a27e-8c4f64aa769f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>208844.58 637994.99 208849.05 638001.2 208861.73 638004.42 208868.84 638007.64 208872.34 638004.75 208872.99 638006 208881.76 637999.53 208895.19 637988.93 208893.22 637985.95 208910.29 637976.63 208918.2 637971.46 208922.48 637969.73 208925.16 637969.17 208924.55 637967.96 208928.74 637965.41 208937.64 637961.09 208939.91 637965.29 208942.17 637964.07 208945.15 637961.53 208942.6 637958.33 208939.97 637955.39 208944.46 637952.2 208945.56 637950.63 208945.86 637948.99 208944.93 637946.93 208928.91 637933.07 208929.13 637930.26 208921.36 637920.88 208825.51 637988.84 208833.32 637991.2 208844.43 637993.26 208844.58 637994.99</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.21">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9AB-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-137aaa6a-dc73-4a11-ad9a-f7b8e0d3ee25-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>201839.08 630256.9 201810.68 630235.4 201793.53 630222.42 201764.53 630200.46 201746.42 630186.75 201731.7 630208.59 201723.57 630202.55 201662.02 630292.89 201637.66 630328.64 201644.52 630333.29 201639.45 630348.44 201645.49 630352.57 201650.57 630356.03 201727.79 630408.76 201746.66 630383.02 201825.62 630275.27 201839.08 630256.9</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.14">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9AD-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d7362085-0b5c-40e3-808d-7245c3e19b05-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>205630.92 619143 205600.5 619183.63 205629.18 619215.61 205631.21 619207.49 205629.24 619202.15 205628.58 619196.2 205623.61 619177.61 205623.87 619172.37 205639.84 619154.29 205642.64 619151.31 205649.41 619156.37 205649.59 619160.25 205650.58 619167.3 205652.64 619168.38 205656.09 619170.19 205660.34 619167.21 205686 619127.28 205714.22 619080.16 205709.4 619076.64 205688.99 619062.74 205662.38 619102.52 205630.92 619143</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.36">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9B2-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2021-10-23T00:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2021-10-23T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:nazwa>Skwer im. Janiny Szczerskiej</ot:nazwa>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-26d96206-cd36-44da-b67c-ce27249d4638-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203459.98 627131.63 203465.01 627137.24 203495.2 627170.92 203529.73 627209.44 203571.49 627256.02 203582.88 627260.86 203593.7 627256.88 203598.54 627248.62 203587.53 627212.19 203576.75 627176.52 203564.93 627137.56 203538.97 627062.52 203531.06 627069.32 203499.79 627096.22 203459.98 627131.63</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.28">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A99A-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:nazwa>GUTEX</ot:nazwa>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9e66e032-f576-4c32-842f-989d023d422c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>202513.9 627093.87 202514.08 627089.71 202545.79 627090.88 202602.45 627091.78 202672.63 627093.41 202731.03 627095.37 202771.07 627096.47 202774.49 627079.99 202775.1 627055.5 202774.19 627038.28 202779.51 627006.75 202779.9 627004.52 202780.16 627001.12 202740.64 626976.11 202735.1 626972.55 202704.69 626956.53 202673.53 626943.66 202646.86 626935.21 202608.18 626928.54 202584.18 626925.32 202551.28 626924.66 202545.51 626924.54 202519.94 626925.21 202499.94 626927.43 202461.93 626932.77 202432.59 626940.74 202411.98 626946.88 202333.47 626974.55 202282.23 626993.33 202289.37 627008.43 202287.77 627106.9 202287.7 627111 202288.37 627115.22 202286.54 627182.19 202328.24 627183.22 202327.91 627212.82 202326.78 627280.14 202339.47 627280.5 202385.12 627278.48 202415.76 627275.59 202431.86 627272.49 202460.35 627268.26 202474.33 627267.58 202491.04 627264.46 202505.16 627253.73 202509.5 627248.16 202513.62 627103.75 202513.9 627093.87</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.4">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A99D-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c91c0581-659a-409a-bd97-949a34e6653a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>208102.33 634879.39 208107.2 634879.16 208109.28 634899.28 208114.82 634952.7 208114.96 634953.31 208167.28 634948.61 208237.7 634943.5 208245.43 634942.22 208245.1 634938.68 208249.77 634941.5 208294.69 634937.02 208304.16 634936.7 208288.36 634891.61 208278.42 634863.31 208271.68 634864.08 208263.39 634864.76 208247.68 634866.08 208245.36 634866.27 208232.64 634867.81 208227.9 634834.73 208226.93 634827.72 208224.3 634813.59 208219.48 634783.52 208217.43 634777.68 208214.62 634770 208210.38 634758.8 208143.65 634777.03 208142.9 634750.65 208142.24 634727.26 208142.18 634725.13 208141.27 634698.18 208140.99 634694.16 208108.26 634700.14 208051.56 634709.05 208054.41 634721.54 208071.09 634796.94 208073.43 634809.13 208083.55 634807.78 208102.33 634879.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.22">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A99F-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>K.S Arkonia</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6a58a6d8-44aa-414b-83a1-7a0488be8961-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>202159.09 630982.45 202111.48 630949.05 202111.38 630949.22 202101.53 630965.63 202101.13 630966.3 202062.49 631076.72 202057.89 631094.16 202046.97 631129.52 202044.09 631146.44 202028.57 631226.1 202028.91 631232.54 202032.53 631246.1 202047.31 631241.04 202082.61 631224.94 202109.33 631211.88 202116.04 631208.6 202123.88 631204.77 202144.3 631194.51 202189.44 631171.83 202219.26 631156.61 202244.09 631143.73 202251.48 631139.89 202265.81 631129.01 202272.08 631124.25 202283.83 631114.24 202284.28 631113.85 202295.73 631103.93 202304.97 631091.99 202307.64 631088.53 202306.34 631078.97 202306.57 631076.81 202306 631076.47 202249.05 631042.16 202228.37 631028.07 202210.11 631015.39 202159.09 630982.45</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.b5b8d14f-604d-11ed-baad-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>b5b8d150-604d-11ed-ad49-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytkowy park pałacowy, nr rej. A-1404 z 2015-04-23</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-6e142f15-9867-40f8-aac2-a3cc781dfb60-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>206990.08 630603.06 206984.79 630606.07 206974.35 630620.86 206988.17 630635.58 206990.55 630638.11 207014.68 630615.41 207019.46 630610.91 207028.15 630602.74 207064.46 630571.42 207069.74 630566.86 207083.27 630555.19 207084.66 630553.99 207106.12 630535.47 207152.77 630492.1 207168.59 630478.3 207185.86 630463.24 207171.3 630446.41 207114.82 630381.1 207101.68 630369.75 207093.05 630365.49 207083.35 630360.7 207070.67 630366.67 207055.23 630376.02 207044.24 630383.63 207030.47 630395.41 207019.02 630379.02 207010.89 630369.99 207000.68 630365.04 206980.82 630381 206988.47 630394.87 206998.29 630402.2 207011.18 630403.71 207019.34 630405.45 207023.07 630409.69 207033.65 630421.75 207038.76 630419.16 207067.12 630443.92 207042.3 630490.74 207047.24 630496.55 207039.79 630515.37 207013.1 630551.56 207012.26 630558.48 207010.9 630569.73 207002.28 630582.79 206994.92 630589.18 206990.08 630603.06</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.b5b994a1-604d-11ed-9ddf-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>b5b994a2-604d-11ed-8407-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytek, nr rej. A-1269 z 1994-11-10, A-878 z 2011-06-13</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-36d0aae3-c7a6-470b-bc06-13047ec91b00-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>205824.07 632023.95 205830.14 632032.37 205856.7 632073.09 205865.86 632087.13 205909.01 632127.08 205917.13 632120.56 205880.61 632069.93 205899.96 632051.62 205924.44 632080.27 205940.81 632076.47 205944.55 632065.33 205958.9 632062.69 205974.77 632066.8 206004.77 632047.08 206000.12 632040.6 205999.23 632039.36 205957.35 631990.59 205938.01 631980.14 205923.3 631958.41 205903.83 631967.48 205899.87 631965.87 205895.78 631967.23 205891.43 631972.27 205889.93 631975.8 205827.95 632020.61 205824.07 632023.95</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.b5b994a3-604d-11ed-9a3d-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>b5b994a4-604d-11ed-94cd-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytek, nr rej. 1132 z 1990-06-21, brak numeru z 2009-07-13, A-873 z 2011-05-24</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Obt</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-80fdf3a7-a67e-403e-a4b3-613f30551774-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>204692.77 628707.52 204738.88 628700.5 204735.63 628668.25 204749.64 628666.2 204767.28 628673.5 204770.71 628670.51 204785.57 628657.5 204775.78 628647.71 204738.53 628621.1 204713.02 628623.54 204693.73 628694.06 204692.77 628707.52</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.b5b994a5-604d-11ed-aa6e-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>b5b994a6-604d-11ed-9368-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytek, nr rej. A-288 z 2006-11-27</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Obt</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d1150602-afe9-40ae-9a22-7bd17a3ad12f-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>202415.28 629875.83 202388.78 629905.28 202415.9 629930.08 202436.33 629948.76 202444.26 629956.01 202470.85 629927.24 202463.31 629920.02 202460.27 629917.12 202458.02 629915.03 202441.15 629899.56 202415.28 629875.83</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.b5ba30e1-604d-11ed-9a18-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>b5ba30e2-604d-11ed-b94e-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytek, nr rej. A-121 z 2003-04-17</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Obt</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-9debb563-9b76-4802-9430-334340e75e0d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203840.46 629015.83 203846.08 629004.02 203879.56 629018.76 203890.84 628996.48 203893.04 628992.17 203859.18 628976.5 203877.34 628938.33 203908.34 628953.58 203911.72 628955.24 203911.89 628955.32 203920.16 628939.16 203922.44 628934.7 203922.92 628933.79 203921.43 628933.1 203883.68 628915.39 203869.35 628908.07 203865.55 628906.12 203865.39 628906.41 203868.61 628908.02 203865.88 628914.1 203843.54 628957.66 203820.89 629001.84 203818.81 629005.89 203840.46 629015.83</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.b5ba30e3-604d-11ed-a536-5404a6a68038">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>b5ba30e4-604d-11ed-890f-5404a6a68038</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2022-09-30</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytek, nr rej. A-257 z 2006-04-04</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:nazwa>Park miejski Różanka</ot:nazwa>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e84b2775-8175-4650-a394-b4bd0f28c3f6-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203012.93 629572.7 203057.07 629504.3 203065.5 629491.24 203065.64 629491.01 203081.38 629466.63 203083.71 629463.02 203034.85 629416.85 203031.43 629413.66 203027.81 629417.07 203024.62 629420.07 203006.05 629437.56 202990.65 629450.2 202987.42 629453.68 202983.31 629458.06 202977.64 629464.13 202963.87 629478.87 202949.24 629494.53 202945.11 629498.95 202944.83 629499.25 202944.2 629499.93 202938.05 629506.51 202930.84 629514.23 202925.55 629519.9 202918.35 629527.59 202910.71 629535.78 202905.23 629530.67 202879.19 629552.69 202859.71 629569.16 202853.04 629577.85 202847.48 629585.09 202851.06 629590.66 202861.4 629599.5 202871.09 629608.3 202883.08 629620.68 202888.03 629631.26 202888.95 629636.16 202889.22 629643.44 202889.48 629651.77 202890.67 629657.46 202895.16 629665 202900.05 629669.94 202902.42 629667.09 202921.09 629649.97 202937.94 629639.43 202943.01 629636.26 202961.99 629624.93 202984.82 629606.99 203006.07 629586.78 203012.66 629573.12 203012.93 629572.7</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.37611e07-3bcb-44f4-b65a-f72a9bfa54b3">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>f976c385-f489-40e1-b14b-b2a9b54903ec</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Zdl</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4d368ffc-baf2-430a-85a7-0d1f74d9dc48-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>204092.89 624647.12 204210.01 624641.38 204209.09 624630.21 204206.72 624622.96 204198.4 624622.2 204143.99 624626.74 204134.42 624621.36 204129.64 624608.6 204127.38 624585.18 204120.48 624555.74 204099.82 624467.57 204090.02 624462.82 204076.96 624460.71 204073.67 624462.17 204068.92 624462.9 204064.45 624458.9 204062.67 624454.15 204048.97 624458.76 204042.88 624465.66 204041.86 624469.53 204040.84 624473.39 204040.44 624482.73 204041.25 624493.71 204040.61 624500.4 204057.24 624550.66 204062.77 624558.17 204072.97 624579.15 204087.71 624629.05 204092.89 624647.12</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.ca8962da-0d4f-4bf5-a386-f4e90e142c9f">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>cd7e30b5-c05e-4c78-aa19-66ff9817b2e1</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Park Warszewo-Podbórz</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-710afaaf-0058-47ab-a5b5-470bdfc2278a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>204106.03 633391.13 204119.34 633390.57 204143.99 633392.23 204169.86 633394.08 204174.7 633394.37 204172.78 633381.83 204171.51 633379.76 204164.07 633351.98 204163.09 633348.33 204161.34 633338.65 204157.54 633317.69 204156.9 633309.12 204156.9 633305.15 204157.85 633301.02 204159.03 633297.39 204157.73 633296.45 204155.21 633292.53 204154.01 633288.48 204150.2 633265.79 204139.66 633202.93 204127.67 633125.6 204112.88 633030.3 204046.14 633033.93 204039.26 633034.3 204040.18 633037.22 204043.47 633052.54 204044.93 633066.77 204043.47 633074.07 204047.42 633072.95 204052.11 633071.62 204061.85 633118.09 204064.1 633128.82 204073.6 633174.16 204076.68 633188.92 204084.35 633225.65 204094.82 633274.56 204099.76 633297.63 204100.69 633301.99 204107.11 633332.08 204108.58 633339.41 204110.13 633347.17 204112.35 633359.83 204110.42 633362.16 204090.8 633377.43 204093.7 633392.75 204097.51 633397.59 204099.46 633396.11 204106.03 633391.13</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.37">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A994-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytek, nr rej. 1030 z 1983-11-15, A-1109 z 2012-07-04, 1030 z 2012-07-05</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:nazwa>Park Żeromskiego</ot:nazwa>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e2fd1047-e3f7-4da9-b7db-59c033e40da9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>205696.54 627902.18 205684.69 627836.39 205682.7 627830.27 205717.8 627815.63 205713.31 627791.05 205751.51 627787.35 205767.52 627785.27 205766.42 627778.66 205753.21 627765.98 205749.95 627751.68 205766.29 627741.95 205729.43 627680.87 205728.9 627673.97 205729.3 627672.29 205730.67 627666.54 205742.27 627648.43 205737.67 627646.45 205729.09 627646.28 205727.34 627646.25 205717.01 627648.98 205712.56 627650.12 205710.55 627654.21 205709.1 627657.17 205705.36 627660.83 205701.32 627664.77 205612.72 627735.69 205594.86 627744 205492.27 627830.97 205485.77 627837.28 205431.11 627828.17 205398.22 627818.62 205351.89 627791.39 205334.98 627779.79 205305.56 627757.44 205295.06 627747.79 205283.63 627737.28 205280.09 627733.21 205369.82 627647.24 205365.12 627643.81 205339.55 627640.22 205328.74 627643.79 205317.93 627647.36 205303.08 627655.93 205290.84 627666.11 205261.88 627616.96 205275.27 627613.11 205291.24 627606.63 205297.37 627597.62 205302.11 627590.77 205308.4 627559.92 205306.83 627556.56 205216.08 627594.22 205198.42 627598.3 205183.36 627600.23 205149.41 627593.69 205060.81 627577.24 205052.15 627579.01 205048.6 627585.39 205048.87 627587.64 205052.29 627618.65 205053.35 627628.26 205063.64 627672.57 205064.78 627676.08 205071.13 627695.53 205071.81 627697.66 205113.72 627799.25 205140.42 627862.77 205168.89 627918.92 205224.27 628036.42 205233.81 628059.3 205240.36 628075.06 205257.23 628078.76 205376.47 628104.89 205437.72 628118.32 205502.3 628126.07 205518.74 628128.97 205548.1 628127.99 205566.99 628126.07 205626.89 628113.9 205666.68 628104.26 205719.18 628091.54 205743.97 628085.16 205752.93 628083.3 205756.88 628082.48 205760.38 628076.89 205763.39 628071.06 205762.68 628064.16 205735.09 628008.46 205715.95 627966.97 205702.86 627938.29 205701.55 627934.82 205697.07 627922.87 205695.88 627910.93 205696.54 627902.18</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.7">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A996-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>kąpielisko Dziewoklicz</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4f19f248-d3e9-44dc-ac88-a5f99f355a12-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203339.46 621956.39 203351.63 621939.72 203365.16 621913.41 203366.1 621911.78 203370.81 621910.09 203381.39 621907.58 203391.18 621896.6 203398.86 621879.93 203403.49 621871.73 203391.44 621846.76 203391.93 621837.14 203396.73 621819.84 203401.06 621806.38 203401.06 621790.99 203399.14 621782.34 203394.33 621777.53 203387.12 621775.61 203300.71 621789.25 203295.77 621790.03 203259.72 621792.43 203254.43 621809.74 203239.52 621823.2 203198.16 621846.61 203191.03 621854.33 203184.72 621866.95 203179.91 621880.41 203177.96 621891.75 203168.28 621929.95 203162.77 621931.04 203173.06 621976.19 203178.2 621983.39 203188.49 621983.39 203197.21 621975.33 203198.17 621971.55 203206.05 621967.67 203210.01 621969.38 203235.17 621958.18 203245.22 621949.15 203256.15 621950.88 203261.52 621956.65 203286.13 621982.74 203309.82 622000.84 203317.1 621992.77 203324.11 621977.82 203330.06 621966.58 203339.46 621956.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.8">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9A7-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Zdl</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-41dc9b81-fcaa-45db-a7c3-6e8703df4fe9-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203744.88 623408.74 203727.81 623360.14 203726 623355 203709.7 623363.93 203708.98 623357.69 203713.79 623355.56 203724.53 623350.8 203702.42 623287.77 203697.18 623284.87 203691.36 623285.45 203676.82 623291.84 203671.6 623292.43 203666.36 623288.35 203650.9 623278.62 203556.29 623330.76 203572.61 623359.11 203645.19 623491.56 203650.07 623507.54 203649.53 623517.03 203645.73 623526.78 203639.23 623535.72 203560.93 623566.34 203559.03 623571.35 203558.36 623576.09 203559.47 623580.42 203563.87 623584.11 203571.09 623590.16 203575.09 623592.28 203580.33 623592.03 203672.03 623557.18 203732.24 623535.19 203783.01 623518 203783.01 623509.57 203766.1 623466.31 203744.88 623408.74</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.13">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9AC-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2019-08-20</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Zdl</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-e83adba6-55ed-4b45-90e7-b0a0179bee44-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>208690.8 623926.44 208717.45 623925.04 208716.04 623902.77 208713.48 623874.42 208710.6 623842.48 208708.17 623814.58 208708.36 623806.71 208710.28 623801.52 208726.41 623777.97 208735.78 623764.1 208680.68 623776.37 208685.73 623851.17 208689.67 623909.62 208690.8 623926.44</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.29">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9B1-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Ogród Dendrologiczny im. S. Kownasa</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Obt</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-2f6e547e-518f-4d3a-8ab4-4151d3526e0c-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203962.03 629508.77 203889.19 629416.9 203883.33 629409.51 203853.93 629368.45 203838.69 629347.03 203818.44 629311.14 203815.51 629307.23 203806.42 629295.06 203798.94 629285.08 203791.8 629275.26 203770.98 629289.66 203718.78 629338.26 203663.7 629388.66 203628.06 629425.74 203612.94 629443.74 203583.42 629465.34 203545.62 629478.3 203511.46 629481.6 203493.42 629483.34 203445.9 629481.9 203413.14 629479.02 203376.42 629480.1 203332.66 629490.46 203293.63 629499.98 203299.11 629504.76 203317.4 629528.18 203358.76 629583.25 203426.78 629669.55 203458.45 629709.74 203502.48 629765.61 203528.22 629798.27 203533.27 629804.6 203537.57 629801.95 203541.65 629799.32 203548.35 629795 203643.06 629733.94 203767.01 629654.04 203807.28 629627.98 203865.84 629590.09 203907.97 629562.94 203913.51 629559.37 203972.18 629521.56 203962.03 629508.77</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.23">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A98D-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK01</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Ogród Różany Różanka</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Obt</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d93d1397-b97e-4e78-b347-1e2c64d4d747-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203024.62 629420.07 203006.05 629437.56 202990.65 629450.2 202987.42 629453.68 202983.31 629458.06 202977.64 629464.13 202963.87 629478.87 202949.24 629494.53 202945.11 629498.95 202944.83 629499.25 202944.2 629499.93 202938.05 629506.51 202930.84 629514.23 202925.55 629519.9 202918.35 629527.59 202910.71 629535.78 202905.23 629530.67 202865.21 629574.53 202895.87 629604.51 202911.59 629618.59 202929.43 629633.71 202963.18 629612.11 202989.65 629587.8 203074.98 629467.64 203024.62 629420.07</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.6989f98b-ff47-4e80-8423-06abc891a3f3">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>3d2cd4ab-4320-4042-9fc1-4b35262a003f</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>skwer Danuty Siedzikówny ps.”Inka”</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b31f5668-efb3-4b2e-a39b-709182d93b7e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>212979.43 621708.42 212989.87 621710.26 212996.49 621711.95 213004.95 621715.84 213010.61 621718.38 213016.67 621719.26 213019.6 621718.68 213021.22 621715.77 213024.81 621707.17 213026.64 621694.67 213025.1 621684.3 213023.45 621673.71 213015.1 621670.74 212998.48 621665.13 212995.18 621664.35 212989.57 621664.93 212945.06 621684.48 212889.89 621700.89 212893.31 621715.72 212930.18 621707.64 212942.43 621706.25 212953.31 621705.71 212960.24 621705.26 212966.78 621705.7 212979.43 621708.42</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.b75687bd-4c65-4ab7-940c-b5d46ba6e455">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>54731813-95af-4d02-a08c-5b7da895dbc2</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2019-08-20</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2019-08-05</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Kąpielisko Arkonka</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-bb7d9a50-d2aa-41b2-a12f-10aacff1199b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>201590.14 631527.8 201641.47 631492.47 201655.26 631492.47 201679.01 631425.68 201702.22 631400.28 201715.72 631364.96 201716.47 631363.01 201738.17 631324.7 201741.32 631324.89 201745.14 631324.73 201751.38 631325.18 201755.56 631329.41 201761.73 631335.62 201806.38 631298.84 201802.63 631296.24 201800.29 631294.79 201789.04 631289.57 201775.47 631282.58 201763.67 631275.26 201737.09 631266.55 201736.36 631266.25 201734.43 631265.45 201718.55 631258.26 201693.36 631233.98 201674.18 631213 201651.76 631183.83 201640.32 631168.94 201602.79 631179.48 201594.02 631195.75 201579.38 631223.09 201592.67 631227.39 201604.76 631231.36 201614.15 631240.75 201601.73 631253.72 201590.26 631276.24 201583.14 631274.85 201570.43 631269.82 201559.14 631262.94 201438.79 631489.5 201489.44 631513.71 201474.76 631546.4 201493.53 631567 201489.11 631580.25 201550.39 631596.81 201590.14 631527.8</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.15">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A990-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytek, nr rej. A-1067 z 1988-12-20, A-907 z 2011-07-20</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d147035e-4ae6-41e8-b78c-2e211a34d93b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>210201.89 621168.75 210247.64 621100.58 210258.3 621084.77 210263.93 621076.51 210269.85 621069.25 210276.56 621061.97 210285.85 621053.87 210309.81 621035.19 210345.06 621010.03 210359.6 621000.04 210370.47 620993.44 210326.32 620961.6 210341.82 620935.93 210344.09 620932.17 210311.35 620911.09 210279.47 620890.57 210264.6 620881.12 210249.8 620877.68 210239.97 620875.39 210224.18 620874.34 210210.85 620876.09 210202.23 620880.39 210181.44 620869.79 210147.13 620852.31 210102.44 620874.16 210092.93 620876.79 210073.43 620883.55 210041.93 620897.04 210035.94 620906.1 210031.89 620912.26 210026.72 620920.02 210021.39 620929.46 210016.35 620938.34 210014.77 620941.12 210066.96 620982.93 210069.11 620987.31 210050.1 621015.33 210029.32 621000.15 210033.29 620994.46 210000.53 620966.43 209989.73 620985.15 209984.4 620994.13 209980.82 621000.37 209977.26 621006.61 209973.82 621012.54 209970.4 621018.48 209967.01 621024.43 209960.97 621034.91 209952.01 621051.04 209942.6 621069.13 209951.76 621072.46 209974.93 621086.14 210015.68 621040.73 210035.08 621063.23 210041.53 621066.31 210051.93 621057.47 210054.72 621055.1 210078.71 621080.43 210098.6 621109.87 210101.32 621113.41 210118.19 621135.26 210121.57 621125.44 210128.6 621111.34 210137.11 621097.19 210156.59 621068.12 210109.31 621037.94 210107.43 621036.74 210108.31 621030.9 210106.17 621025.02 210107.52 621022.88 210131.48 620984.73 210177.97 621014.62 210227.67 620937.75 210258.9 620958.63 210193.93 621060.85 210203.06 621067.08 210149.23 621153.66 210120.51 621136.64 210116.46 621163.99 210116.26 621174.88 210116.73 621182.77 210118.85 621191.03 210121.64 621192.73 210164.9 621219.05 210168.3 621221.13 210193.44 621181.69 210194.6 621179.87 210201.89 621168.75</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>210185.68 620912.92 210163.97 620966.39 210146.77 620962.53 210164.65 620902.22 210186.03 620912.22 210185.68 620912.92</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.9">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9A5-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:nazwa>Zachodniopomorski Zespół Gospodarki Turystycznej</ot:nazwa>
+			<ot:rodzaj>Zdl</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-727ba6ec-fe58-474a-b044-f5c1bb2863ed-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>210185.73 623311.28 210184.24 623301.01 210182.35 623287.92 210140.97 623294.03 210119.32 623297.32 210110.11 623298.8 210102.85 623300.48 210098.95 623301.69 210093.44 623303.51 210085.84 623305.59 210073.33 623307.14 210056.53 623309.56 210050.95 623310.64 210043.35 623310.43 210038.43 623310.57 210034.48 623309.96 210019.63 623311.72 210021.14 623321.88 210027.16 623362.21 210035.37 623417.27 210038.57 623443.93 210018.26 623497.92 210029.51 623497.92 210045.24 623498.44 210102.1 623500.3 210162.42 623502.28 210213.65 623503.96 210212.55 623496.34 210207.56 623461.96 210206.63 623455.48 210201.4 623419.44 210201.1 623417.28 210197.28 623390.98 210193.56 623365.23 210185.73 623311.28</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.12">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A98F-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Zdl</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8287cfc6-fe2f-4759-a3c4-afa80874655b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>208884.83 623893.28 208908.23 623884.02 208911.69 623879.03 208912.46 623868.79 208892.49 623758.84 208888.48 623755.89 208868.69 623762.75 208880.81 623865.96 208884.38 623880.05 208884.83 623893.28</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.25">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A991-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytkowe błonia, nr rej. A-197 z 2004-12-20</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:nazwa>Plac Jasne Błonia im. Jana Pawła II</ot:nazwa>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-3357e25a-1c89-477e-ba36-de565cedba74-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203915.39 628863.3 203942.62 628809.59 203986.73 628724.3 204040.99 628618.01 204049.85 628602.99 204028.98 628592.43 204023.57 628594.6 203977.24 628570.76 203974.26 628564.26 203970.4 628562.41 203966.98 628573.62 203962.99 628577.23 203907.89 628683.83 203865.65 628769.85 203838.5 628823.9 203822.92 628852.22 203842.11 628861.54 203855.33 628834.15 203894.01 628854.67 203880.22 628880.8 203901.69 628890.31 203915.39 628863.3</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.20">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9A8-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>tor motocrossowy</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-b2f157a8-4c7b-4771-9157-4204da98484e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>201906.79 630777.47 201936.71 630726.35 201990.75 630654.78 201994.95 630649.22 201999.02 630641.41 202011.58 630617.31 202017.07 630606.79 202003.7 630587.59 201972.39 630576.71 201913.76 630559.02 201872.58 630609.78 201811.81 630680.57 201800.84 630685.54 201796.09 630681.34 201766.33 630714.13 201765.75 630714.79 201802.62 630744.51 201811.81 630743.6 201823.28 630752.94 201837.19 630764.04 201843.25 630759.81 201859.16 630759.84 201870.2 630771.53 201881.07 630781.09 201893.93 630782.08 201906.79 630777.47</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.30">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A99B-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytkowy park miejski im. Jana Kasprowicza, nr rej. A1272 z 1994-12-13, A-920 z 2011-09-23</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-bd89e836-79db-4398-bb86-ebd5e9e9372e-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>203378.22 629465.7 203412.78 629464.98 203460.66 629470.02 203495.22 629468.94 203537.7 629464.26 203567.58 629453.82 203601.42 629430.78 203631.66 629400.54 203696.82 629337.9 203778.54 629268.78 203805.9 629252.58 203836.86 629245.38 203880.42 629242.86 203911.74 629243.22 203941.78 629235.19 204007.34 629210.91 204023.26 629204.76 204043.99 629196.7 204052.6 629193.36 204099.31 629177.59 204101.53 629175.65 204110.74 629173 204129.47 629169.93 204139.53 629168.43 204159.32 629165.49 204177.16 629162.01 204180.07 629148.27 204180.76 629131.9 204186.17 629117.84 204102.62 629089.59 204093.55 629107.72 204090.19 629114.06 204010.43 629130.28 203933.1 629087.1 203919.05 629083.76 203904.54 629080.32 203881.86 629070.54 203817.18 629040.56 203804.32 629034.13 203801.13 629040.35 203792.86 629046.18 203779.04 629048.12 203772.73 629047.15 203767.63 629044.24 203762.05 629037.2 203759.87 629034.29 203758.09 629030.1 203757.13 629023.33 203757.5 629014.62 203757.69 629013.67 203760.05 629009.84 203761.17 629008.06 203751.56 629003.43 203753.45 628999.17 203748.17 628996.09 203744.5 628994.2 203693.82 628968.96 203631.4 628936.79 203623.76 628932.67 203624.21 628928.92 203624.34 628922.17 203612.66 628922.73 203610.28 628922.84 203588.48 628923.16 203577.57 628924.01 203566.14 628925.81 203552.28 628929.3 203540.74 628932.9 203524.55 628939.78 203513.73 628945.95 203509.1 628949.62 203507.94 628950.88 203509.26 628952.1 203537.32 628977.99 203521.69 628994.88 203502.85 629015.24 203496.35 629022.17 203487.77 629031.35 203470.56 629049.78 203468.62 629051.86 203466.81 629053.79 203451.34 629070.36 203438.24 629084.39 203425.2 629098.34 203412 629112.47 203395.48 629130.15 203376.92 629150.03 203372.86 629154.36 203357.81 629170.58 203343.84 629185.63 203334.57 629195.62 203329.9 629200.59 203316.35 629214.98 203306.84 629225.08 203302.16 629230.1 203289.16 629243.93 203275.77 629258.17 203271.49 629262.64 203268.45 629265.88 203250.83 629284.59 203247.37 629288.38 203238.76 629297.94 203226.42 629311.66 203220.3 629312.08 203211.64 629317.45 203201.51 629323.73 203196.09 629330.59 203185.25 629339.26 203165.38 629352.27 203145.13 629363.78 203131.09 629370.54 203122.33 629374.38 203114.83 629377.66 203093.84 629385.7 203073.32 629393.56 203069.26 629395.12 203058.19 629399.36 203039.67 629406.45 203089.37 629456.47 203117.22 629485.5 203137.38 629496.3 203169.06 629496.66 203236.38 629490.54 203279.22 629485.5 203325.68 629473.18 203378.22 629465.7</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.35">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A995-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c4ea034e-863d-4d14-87ea-3db3063bf937-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>205910.56 630105.95 205903.34 630070.56 205856.39 630084.16 205861.96 630105.71 205845.17 630110.27 205835.06 630112.91 205802.51 630121.43 205766.1 630130.97 205738.15 630138.28 205728.35 630140.85 205719.03 630143.29 205713.22 630145.98 205721.13 630157.4 205736.1 630179.04 205762.03 630222.02 205766.68 630252.21 205789.1 630284.07 205792.28 630288.82 205804.56 630307.17 205827.89 630291.06 205844.76 630282.43 205915.72 630246.52 205899.14 630185.69 205873.19 630146.96 205866.43 630121.28 205878.81 630114.74 205910.56 630105.95</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.16">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9A9-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Międzyszkolny ośrodek sportowy, euroregionalne centrum edukacji wodnej i żeglarskiej</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-8d59cf5b-0e8a-4669-93f6-5b6d4e25fce8-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>209982.28 623345.3 209981.34 623334.5 209979.01 623334.83 209928.14 623342.99 209825.75 623359.42 209822.3 623359.75 209816.69 623360.16 209807.89 623362.03 209792.26 623365.07 209823.14 623480.05 209827.78 623497.12 209845.84 623570.31 209906.35 623532.98 209930.01 623518.48 209944.43 623514.81 209948.24 623513.84 209942.82 623478.72 209941.62 623469.87 209941.06 623465.69 209946.59 623464.7 209944.7 623454.86 209944.64 623454.58 209944.22 623452.37 209943.61 623448.3 209942.04 623437.9 209940.49 623427.55 209940.13 623425.16 209940.19 623424.06 209937.17 623409.2 209961.11 623404.57 209980.69 623400.86 209978.44 623387.37 209974.48 623359.45 209976.99 623358.26 209979.37 623356.94 209980.69 623354.43 209981.88 623349.67 209982.28 623345.3</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.1">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9AE-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK05</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Zdl</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-4f836490-1cab-4365-8769-ee9a2e2c2f2a-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>219854.22 616851.18 219874.64 616820.97 219884.45 616789.85 219901.34 616783.19 219892.84 616768.2 219858.81 616708.19 219823.74 616725.49 219822.63 616740.4 219814.24 616745.44 219794.03 616747.43 219794.42 616753.52 219818.75 616777.72 219834.9 616809.38 219854.22 616851.18</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.3">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A9AF-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2015-02-01</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>zabytek, nr rej. A-493 z 2009-11-23, A-493 z 2011-04-20</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-d05f0a70-7277-413a-b232-5545c0f7a83d-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>200261.74 624535.5 200254.7 624542.74 200241.31 624556.5 200219.34 624584.48 200175.82 624620.57 200171.73 624628.77 200172.46 624638.71 200277.97 624716.57 200285.65 624716.83 200303.92 624704.54 200327.49 624677.72 200331.96 624665.12 200332.25 624651.13 200330.33 624639.93 200336.02 624629.77 200347 624623.67 200360.81 624623.26 200373.82 624615.54 200382.93 624600.35 200396.75 624583.84 200393.42 624576.41 200384.59 624572.7 200377.94 624564.64 200371.46 624560.64 200345.37 624595.63 200322.61 624577.75 200309.71 624594.81 200271.83 624566.84 200285.75 624546.28 200270.01 624536.34 200261.74 624535.5</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.26">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A997-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK03</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>Stadion Miejski im. Floriana Krygiera</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:rodzaj>Osr</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-56a8b02f-4d4d-48d3-927f-eec8bd9bf932-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>202678.35 628167.15 202677.89 628169.51 202674.71 628173.69 202670.9 628175.86 202664.39 628177.13 202615.66 628176.34 202607.8 628176.43 202596.82 628176.89 202587.67 628178.2 202574.18 628181.99 202549.85 628188.82 202535.67 628193.27 202524.81 628195.43 202515.46 628195.81 202505.28 628195.55 202484.77 628192.9 202455.27 628188.8 202442.44 628188 202436.32 628188.83 202430.53 628190.65 202426.7 628193.3 202429.78 628176.13 202269.39 628146.55 202262.56 628220.78 202252.75 628269.18 202252.67 628270.71 202250.7 628309.83 202249.32 628314.57 202245.95 628326.12 202238.04 628343.51 202225.07 628360.91 202225.07 628367.56 202233.24 628377.23 202234.51 628378.74 202238.48 628383.44 202239.64 628384.81 202264.61 628414.38 202269.78 628420.49 202274.89 628426.55 202292.73 628444.52 202306.99 628458.88 202317.78 628461.83 202318.84 628463.94 202319.5 628464.6 202327.97 628473.12 202330.54 628475.7 202337.81 628483.42 202345.44 628491.54 202361.39 628509.18 202367.73 628516.93 202372.32 628520.64 202380.41 628526.97 202385.3 628530.8 202390.12 628534.57 202393.91 628537.53 202394.8 628538.23 202398.53 628541.15 202400.15 628542.54 202404.64 628546.38 202408.93 628550.06 202411.69 628552.43 202416.99 628556.96 202426.21 628546.69 202432.26 628541.42 202456.8 628520.05 202472.05 628512.18 202484.27 628508.38 202494.86 628506.88 202515.77 628506.07 202530.98 628507.15 202576.6 628513.67 202667.47 628525.71 202668.01 628520.13 202668.78 628512.09 202673.31 628464.81 202673.86 628459.07 202674.5 628452.38 202676.9 628437.23 202678.14 628429.42 202681.32 628409.36 202682.46 628400.15 202682.76 628397.76 202696.82 628284.04 202701.46 628247.01 202710.08 628178.29 202710.41 628172.2 202710.67 628167.34 202678.35 628167.15</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.31">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A998-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:nazwa>Skwer im. Telesfora Badetki</ot:nazwa>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-64b2b747-b5e4-4c27-b38c-939c1a17ed36-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>202978.35 629105.77 202969.81 629096.5 202933.21 629135.5 202848.93 629224.04 202843.97 629228.45 202907.18 629291.79 202909.15 629293.7 202915.06 629286.68 203034.1 629159.75 203038.42 629153.96 203033.5 629149.87 202978.35 629105.77</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_KUSK_A gml:id="OT_KUSK_A.27">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF7-A999-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>KUSK04</ot:x_kod>
+			<ot:x_skrKarto nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_katDoklGeom>Prz</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>ZU</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2015-02-01</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_kodKarto10k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto25k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:nazwa>Park Noakowskiego</ot:nazwa>
+			<ot:rodzaj>Prk</ot:rodzaj>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-c9b399c1-179e-4bd8-8659-85e3a3226e87-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>202960.42 628497.77 202963.83 628498.06 202982.13 628497.13 202996.28 628496.41 203025.65 628494.92 203023.49 628422.99 203024.74 628416 203024.72 628413.68 203024.68 628408.43 203023.58 628283.4 202986.03 628153.24 202958.57 628164.34 202937.57 628167.33 202928.03 628168.69 202927.93 628273.41 202927.91 628298.37 202788.47 628300.55 202775.49 628301.64 202777.72 628324.45 202783.67 628371.26 202790.7 628411.57 202799.09 628458.11 202808.56 628511.68 202816.68 628547.4 202822.36 628570.67 202822.63 628593.39 202818.3 628604.49 202818.03 628612.33 202823.44 628619.1 202827.77 628624.24 202831.86 628626.76 202837.05 628625.55 202841.69 628624.2 202867.14 628616.92 202891.32 628605.84 202924.72 628589.92 202970.64 628568.65 202962.96 628559.32 202960.09 628555.83 202960 628551.63 202958.61 628500.97 202958.66 628497.62 202960.42 628497.77</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+				</gml:Polygon>
+			</ot:geometria>
+		</ot:OT_KUSK_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mz="urn:gugik:specyfikacje:gmlas:mapaZasadnicza:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0" gml:id="GUGiK_OT_PTWZ_A" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0 ../XSD/OT_BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_PTWZ_A gml:id="OT_PTWZ_A.5">
+			<ot:idIIP>
+				<bt:BT_Identyfikator>
+					<bt:lokalnyId>2DDDABF8-0D5E-0D26-E053-CC2BA8C04634</bt:lokalnyId>
+					<bt:przestrzenNazw>PL.PZGiK.339.BDOT10k</bt:przestrzenNazw>
+					<bt:wersjaId>2022-09-30T12:00:00</bt:wersjaId>
+				</bt:BT_Identyfikator>
+			</ot:idIIP>
+			<ot:czyObiektBDOO>false</ot:czyObiektBDOO>
+			<ot:x_kod>PTWZ01</ot:x_kod>
+			<ot:x_skrKarto>żw.</ot:x_skrKarto>
+			<ot:x_katDoklGeom>Dok</ot:x_katDoklGeom>
+			<ot:x_zrodloDanychG>Ort</ot:x_zrodloDanychG>
+			<ot:x_zrodloDanychA>Trn</ot:x_zrodloDanychA>
+			<ot:x_katIstnienia nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_rodzajReprGeom>KR</ot:x_rodzajReprGeom>
+			<ot:x_uzytkownik xlink:href="Uzytkownik32.xml"/>
+			<ot:x_aktualnoscG>2022-09-30</ot:x_aktualnoscG>
+			<ot:x_aktualnoscA>2022-09-30</ot:x_aktualnoscA>
+			<ot:x_cyklZycia>
+				<bt:BT_CyklZyciaInfo>
+					<bt:poczatekWersjiObiektu>2022-09-30T00:00:00</bt:poczatekWersjiObiektu>
+				</bt:BT_CyklZyciaInfo>
+			</ot:x_cyklZycia>
+			<ot:x_dataUtworzenia>2012-11-13</ot:x_dataUtworzenia>
+			<ot:x_informDodatkowa>pole refulacyjne</ot:x_informDodatkowa>
+			<ot:x_kodKarto10k>0010_737</ot:x_kodKarto10k>
+			<ot:x_kodKarto25k>0025_737</ot:x_kodKarto25k>
+			<ot:x_kodKarto50k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto100k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto250k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto500k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:x_kodKarto1000k nilReason="inapplicable" xsi:nil="true"/>
+			<ot:geometria>
+				<gml:Polygon gml:id="id-a7ac68ef-3019-4826-9672-a9a62fb4477b-0" srsName="EPSG:2180" srsDimension="2">
+					<gml:exterior>
+						<gml:LinearRing>
+							<gml:posList>207348.1 628070.39 207386.68 628067.1 207392.13 628067.84 207383.8 627986.34 207379.98 627942.1 207379.74 627932.92 207390.82 627910.79 207370.72 627709.34 207332.76 627741.15 207303.43 627754.58 207282.56 627756.71 207274.06 627771.91 207276.18 627794.55 207295.3 627838.76 207305.89 627872.71 207307.93 627877.69 207300.89 627898.94 207284.22 627912.44 207279.06 627931.09 207283.4 627946.17 207286.6 627966.81 207278.26 627987.44 207271.89 628007.29 207272.31 628019.99 207279.43 628042.21 207304.06 628056.9 207330.64 628067.22 207348.1 628070.39</gml:posList>
+						</gml:LinearRing>
+					</gml:exterior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>207314.13 628039.7 207316.46 628032.72 207315.6 628026.79 207314.97 628018.96 207313.92 628007.74 207312.43 627998 207312.43 627990.59 207312.01 627980.86 207313.92 627974.3 207316.24 627970.27 207315.6 627965.19 207317.09 627962.44 207322.17 627962.65 207327.24 627963.29 207327.68 627958.84 207325.14 627944.87 207325.14 627931.12 207328.1 627925.82 207337.63 627926.46 207345.24 627928.15 207348.63 627938.74 207349.89 627948.47 207355.18 627962.02 207359.43 627975.78 207365.77 627983.4 207371.06 627986.36 207371.69 628000.12 207375.09 628024.25 207378.05 628036.53 207378.68 628045.84 207374.02 628046.05 207368.73 628045.84 207358.78 628047.74 207350.53 628048.17 207351.17 628052.4 207354.35 628055.36 207354.14 628060.66 207350.74 628064.68 207342.48 628062.98 207335.51 628058.33 207329.78 628054.73 207322.17 628053.46 207316.67 628048.17 207314.13 628039.7</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>207323.22 627959.48 207321.01 627960.11 207317.51 627958.84 207314.13 627955.67 207311.8 627951.44 207309.89 627945.72 207308.42 627941.06 207307.77 627935.35 207308.84 627930.48 207308.84 627926.67 207307.14 627920.53 207308.63 627915.24 207310.52 627909.95 207313.06 627909.31 207321.01 627913.33 207319.85 627915.87 207321.01 627918.84 207323.22 627922.86 207321.01 627927.52 207319.42 627931.96 207321.01 627937.68 207321.01 627943.18 207318.57 627947.2 207321.01 627950.38 207322.6 627955.46 207323.22 627959.48</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>207310.52 627959.9 207312.22 627966.25 207312.85 627972.18 207309.89 627974.72 207305.44 627974.08 207303.76 627970.27 207303.97 627967.31 207301.01 627963.5 207296.56 627961.17 207295.72 627957.79 207296.56 627955.03 207291.26 627953.13 207291.26 627948.47 207287.88 627945.72 207288.93 627940.85 207291.9 627938.1 207289.36 627935.77 207285.97 627932.81 207283.22 627928.36 207283.22 627923.92 207285.34 627916.93 207287.46 627913.33 207290.64 627912.28 207296.76 627909.95 207303.11 627910.79 207306.3 627913.97 207304.81 627921.17 207305.88 627924.77 207306.72 627929.21 207304.39 627936.41 207305.02 627941.91 207305.65 627947.2 207307.77 627954.61 207310.52 627959.9</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>207307.22 628037.45 207300.07 628039.44 207288.56 628036.66 207281.43 628030.31 207278.64 628023.56 207277.06 628015.62 207280.23 628008.88 207286.59 628005.7 207292.93 628000.54 207302.85 628000.94 207308.01 628005.3 207309.21 628012.84 207307.61 628021.97 207309.99 628030.7 207307.22 628037.45</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+					<gml:interior>
+						<gml:LinearRing>
+							<gml:posList>207292.14 627785.04 207295.72 627781.86 207305.23 627781.86 207311.98 627781.86 207315.96 627778.29 207315.15 627773.53 207321.01 627770.75 207331.03 627767.18 207344.52 627764.4 207348.49 627766.39 207348.89 627771.15 207348.1 627785.44 207356.03 627837.82 207358.02 627868.38 207352.47 627874.73 207340.56 627876.32 207333.01 627879.1 207325.47 627877.91 207323.49 627865.6 207317.53 627858.06 207306.82 627855.68 207302.06 627850.52 207300.88 627845.36 207299.68 627836.24 207295.31 627820.76 207291.74 627808.85 207289.76 627796.94 207292.93 627791.79 207292.14 627785.04</gml:posList>
+						</gml:LinearRing>
+					</gml:interior>
+				</gml:Polygon>
+			</ot:geometria>
+			<ot:PRNG/>
+			<ot:rodzaj>Wrb</ot:rodzaj>
+			<ot:surowiec>Zw</ot:surowiec>
+		</ot:OT_PTWZ_A>
+	</gml:featureMember>
+</gml:FeatureCollection>

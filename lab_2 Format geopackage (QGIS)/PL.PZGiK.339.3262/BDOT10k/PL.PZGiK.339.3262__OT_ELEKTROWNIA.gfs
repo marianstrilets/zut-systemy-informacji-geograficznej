@@ -1,0 +1,16 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>OT_Elektrownia</Name>
+    <ElementPath>OT_Elektrownia</ElementPath>
+    <GeometryType>100</GeometryType>
+    <DatasetSpecificInfo>
+      <FeatureCount>2</FeatureCount>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>rodzaj</Name>
+      <ElementPath>rodzaj</ElementPath>
+      <Type>String</Type>
+      <Width>3</Width>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

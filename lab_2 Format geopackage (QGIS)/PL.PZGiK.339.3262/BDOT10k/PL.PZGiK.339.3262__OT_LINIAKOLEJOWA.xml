@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gml:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mz="urn:gugik:specyfikacje:gmlas:mapaZasadnicza:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:bt="urn:gugik:specyfikacje:gmlas:modelPodstawowy:1.0" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:ot="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0" gml:id="GUGiK_OT_LINIAKOLEJOWA" xsi:schemaLocation="urn:gugik:specyfikacje:gmlas:bazaDanychObiektowTopograficznych10k:1.0 ../XSD/OT_BDOT10k_BDOO.xsd">
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.50">
+			<ot:nrLinii>273</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.75"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.111"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.65">
+			<ot:nrLinii>351</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.76"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.111"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.57">
+			<ot:nrLinii>401</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.77"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.87"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.51">
+			<ot:nrLinii>406</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.78"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.88"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.61">
+			<ot:nrLinii>408</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.79"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.89"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.53">
+			<ot:nrLinii>409</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.80"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.90"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.66">
+			<ot:nrLinii>417</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.81"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.91"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.98">
+			<ot:nrLinii>428</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.109"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.108"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.67">
+			<ot:nrLinii>432</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.82"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.92"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.71">
+			<ot:nrLinii>433</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.83"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.93"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.73">
+			<ot:nrLinii>851</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.84"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.94"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.92">
+			<ot:nrLinii>854</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.106"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.100"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.93">
+			<ot:nrLinii>855</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.103"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.97"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.94">
+			<ot:nrLinii>857</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.104"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.98"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.95">
+			<ot:nrLinii>990</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.97"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.99"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+	<gml:featureMember>
+		<ot:OT_LiniaKolejowa gml:id="OT_LiniaKolejowa.96">
+			<ot:nrLinii>991</ot:nrLinii>
+			<ot:wezelKolejowy1 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.107"/>
+			<ot:wezelKolejowy2 xlink:href="PL.PZGiK.339.3262__OT_WezelKolejowy.xml#OT_WezelKolejowy.101"/>
+		</ot:OT_LiniaKolejowa>
+	</gml:featureMember>
+</gml:FeatureCollection>
