@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin2
+
+Definition Table
+  File "n-33-90-c-a-4-3.tif"
+  Type "RASTER"
+  (205246.008607,628335.43402299995) (0,0) Label "Punkt 1",
+  (207464.008607,628335.43402299995) (2218,0) Label "Punkt 2",
+  (205246.008607,625891.43402299995) (0,2444) Label "Punkt 3"
+  CoordSys Earth Projection 8, 33, "m", 19, 0, 0.9993, 500000, -5300000
+  Units "m"
+  RasterStyle 7 0
