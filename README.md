@@ -14,4 +14,5 @@
 ├── lab-9: Kalibracja i rektyfikacja (QGIS)
 ├── lab-10: 
 ├── lab-11: Przedstawienie podstawowych komend SQL stosowanych w analizach eometrii w GIS
+├── lab-12: WebODM
 ```
